@@ -1,0 +1,41 @@
+#+TITLE: HIST 115
+#+AUTHOR: Arun Woosaree
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+LaTeX_HEADER: \usepackage{graphicx}
+#+hugo_base_dir: hugo
+
+
+
+
+
+* Introduction
+- don't need to know dates from textbook
+- know major ideas, concepts, events, ideas, approaches
+- Pay attenton to stuff not discussed in lectures
+* Early Technologies
+** Mezopotamia
+** Perssinmple? period
+** Africa
+** AcientEgypt
+* Applied Science
+** Ancient Greece
+- because their religion was different, they came up with modern science
+* Invention of inventing
+** Alexandia
+* Engineering under Roman Empire
+* Chinese and European Connection
+* Revolution in Time
+** Time before machines
+**
+* Mechanical Universe
+* Age of experimentation
+* From experimentation to utility
+** Industrial Revolution
+* To Capture a moment
+* Transportation Revolution
+** GLobalization
+* Dream of flight
+* Technoscience and Warfare
+* Modern Technologies and You
+** genetics
+** artificial intelligence
