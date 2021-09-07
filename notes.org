@@ -13,15 +13,287 @@
 - know major ideas, concepts, events, ideas, approaches
 - Pay attenton to stuff not discussed in lectures
 * Early Technologies
-** Mezopotamia
-** Perssinmple? period
-** Africa
-** AcientEgypt
+- Lecture 2
+
+  What is technology? Cars, rockets, airplanes, computers are products of systems
+  - technology :: a system that leads to creation of predetermined products (large scale, standardized)
+    + a system which leads to usually mass production of objects of a predetermined pattern
+    ex: Education is a technology, and the product is you
+
+*** Africa
+- c. - circa 2.5 million years ago
+- prehistoric period before 3200BC
+**** The Great Rift Valley
+- birth of technology
+***** Oldowan tools (flake tools)
+2.5 mil. - 1.5 mil.
+- first example of technology
+- not very standardized
+- take hard stone, hit softer stone, and you get a flake that chips off that you can use as a tool
+- not as precise as later stone tools
+- quartz, basalt, obsidian
+- they didn't use flint (which is ideal) because it was not around
+- created by <<<Australopitchecus>>> (<<<Lucy>>>)
+    + bipedal, but not walking upright
+***** Acheulean tools (core tools)
+1.5 mil - 100000
+- core tools
+- predetermined pattern, they all look fairly similar
+- new method of production
+- reverse process of flake tool
+  + big stone carved into tool, flakes discarded
+- <<<Homo Erectus>>> (<<<Turkana Boy>>>)
+  + bipedal
+  + closer to us (Homo Sapiens)
+- large stone tools
+- made of flint
+  + really sharp, we still use it for surguries today
+- flint hand axe
+- makes hunting possible
+  + can kill animal
+  + more meat
+***** Fire
+- c. 1 million
+   cannot make fire, can move it into caves though
+- stone tools
+- more meat
+- new proteins -> bigger brains
+  + c. 100000 Homo Sapiens
+  + bigger brains -> abstract thinking -> new technologies
+  + using technologies to survive, get food, and not be eaten by other animals hunting humans
+*** Agriculture
+**** Mesopotamia
+- c. 10000BC
+- at the time, it was like a paradise
+  + ice age, cold, lack of food, have to constantly walk and move
+  + lots of plants, things green and growing, lots of food in Mesopotamia
+  +
+    - domestication
+    - animals got used to human garbage
+    -
+**** Domestication of animals
+7500BC
+- animals got attracted to human garbage, start hanging around
+- sheep, goat, pig, cow
+- *shift from "eat when you catch it asap" -> 'save the best for the next year'*
+  + surplus of food 2% -- first time!!
+**** Surplus of food
+can focus on things other than survival
+- Division of labor
+  + preserving extra food
+- Specialization
+- Political elite
+  + someone in charge of food
+- First towns
+  + mud huts
+  + large centres of human activities
+
+*** Catalhoyuk
+- c 7000BC
+- one of the older towns
+- there were others, but they didn't survive
+- standardization of
+  + housing
+  + construction
+    - mud bricks, same material
+  + ruled by those who controlled food surpluses
+- wealth measured by how much surplus food you have (no money)
+- interconnected houses
+  + save building materials by building less walls
+- population about 6000
+- furnaces
+- beds have dead ancestors below, they slept with the dead
+- kitchen, grinding wheel, ladders
+- fairly modern
+
+*** Plow
+4000BC
+- first civilization, cities, monumental buildings
+- agriculture -> first civilization
+- large surplus of food
+
+*** Sumerians
+- first pyramids
+- houses made of mudbricks, had warfare, not much left
+- Egyptians used their technology, they made pyramids first (ziggurats)
+- invented lawyers
+- plow
+- government
+- religion
+- math
+- writing
+- time
+- first paid army
+- metallurgy
+- 1900BC captured by Amorites (Babylonians)
+- *iteraction/trade with Egyptians*
+
+**** Uruk
+- c. 4000BC
+- population 50000
+- bureaucracy, army
+- standardization of government buildings
+- permanent construction with stone
+- roads
+**** Religion
+- every city has a ziggurat, which is a temple
+- each city protected by a deity, usually female
+- bring donations, surplus of food, animals
+- priests keep a count of dues provided to temple
+- records kept for who donated what, needed a better system (writing)
+**** Writing
+3200BC
+- clay tablets
+- cuneiform (wedge shaped)
+  + first written language we know of
+- issuing receipts for trade
+
+***** Alphabet
+3000BC
+- Epic of Gilgamesh
+  2000BC
+  + first known story
+- Hammurabi's Babylonian law code
+  1700BC
+  + first known legal/law system
+  + what is the punishment for doing certain things
+**** Math
+**** Clock
+- modern concept of time
+- calendar
+**** Transportation
+- people want to trade with Sumarians because they had a lot of wealth
+***** Wheel
+**** Army
+- weapons
+- armour
+- metallurgy (making weapons and armour out of metal)
+**** Gold
+6000BC
+- visible
+- soft
+- shaped by pounding
+**** Copper
+5000BC
+- harder than gold, better for weapons
+**** Silver
+4000BC
+- harder, more durable
+- almost impossible to work with without smelting
+- almost always impure
+**** Smelting
+***** Bronze
+- mix of tin and copper
+- really good for weapons
+- melt pretty easily
+- can pour into any shape you want
+- mass production of weapons
+- every sword, helmet is the same, and the same quality
+- first thing made that you do not find in nature on a molecular level
+***** Iron
+- 15000BC China
+*** Egyptians
+- surrounded by large desert, so protected from other humans
+- nile river is unique
+  + good for transportation
+    - water current South -> North
+    - wind North -> South
+- invented sails for boats, 3000BC
+- predictable flooding, unlike the area the Sumerians were in
+  + new layer of topsoil each time, acts like fertilizer
+  + huge surplus of food
+  + Nilometer
+    - wooden stick to measure height
+    - based on observation of stars they could predict flooding and surplus of food
+    - Pharaoh kept secret
+    - this knowlege kept secret from commoners (farmers)
+    - knew when solar eclipse is happening, used religion to scare the peasants
+  + good observers of the sky
+    - did NOT come up with astronomy
+- canals for farming, and store water for farming
+  + sumerians had canals, but did not store water
+  + water storage allowed for 2 harvests
+- Menes first Pharaoh
+  3200BC
+- control of centralized granary (money 1500BC)
+- largest surplus of food
+
+**** Was Egyptian civilization as technologically advanced as is generally believed?
+Probably not.
+- preoccupied with afterlife
+  + engineering scemes just produced gigantic tombs
+- could have done so much more with the resources spent
+- borrowd most technology from Sumerians
+- didn't really do scientific investigation
+- good observation though
+- not as influential, because of religion
+- religion dictated that most resources were spent on tombs instead of public buildings or advancing society
+
+**** Money
+
+
+**** Pyramids
+food surplus funneled into building pyramids
+- large tombs
+- not accessible to public
+- progression of design
+- starts with step pyramids
+- made by paid workers
+- when the nile is flooded, farmers have no work
+- Pharaos pays farmers to work -> they don't overthrow the government because they're busy
+- wealth was spent on building gigantic tombs. Resources could have been spent better on more cool things
+
+***** Mastaba
+3100BC
+- tombs
+- bunker like structures
+***** Step Pyramids
+- created by Imhotep 2650BC minister of Djoser
+- basically mastabas stacked on top of each other
+***** Sneferu's pyramid
+2613BC
+- bent pyramid
+***** Great Pyramid of Giza
+2500BC
+- fill the gaps in the step pyramid to make the smooth ramp
+- built over 20 years by 20000 men
+- over 2.4 million blocks of stone, each block over 1500kg (1 ton each)
+- blocks are prefabricated, transported by water
+**** Mummification
+- did not do it for science (anatomy)
+- it was all about immortality
+  + stop decomposition of body by removing internal organs
+  + dehydration
+  + organs were destroyed before they were studied
+  + brain liquidized by bronze hook, discarded
+    - did not think the brain had any purpose
+    - they thought the heart was the important thing
+  + all internal organs removed except for heart
+  + internal organs dissolved or destroyed within body before they could be examined
+  + duty for these people was to prepare the body for the afterlife, no time to study anatomy
+*** Hyksos
+1700BC
+Nomadic people
+- Captured Egypt, got rid of Pharaos
+- Egyptians eventually recaptured, and put Pharaos back in charge, but
+- Egypt never the same. They thought different, never felt powerful as a society again
+- Captured again by Alexandria and then the Romans
+
+*** Irrigation
+- mathematics
+- engineering
+- labour organization
+- measurement system
+- centralized project management
+*** Greeks
+- first to separate divine from natural
+- scienctific method, new technologies
+
 * Applied Science
 ** Ancient Greece
 - because their religion was different, they came up with modern science
 * Invention of inventing
-** Alexandia
+** Alexandria
 * Engineering under Roman Empire
 * Chinese and European Connection
 * Revolution in Time
