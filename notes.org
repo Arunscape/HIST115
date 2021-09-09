@@ -111,6 +111,9 @@ can focus on things other than survival
 - first civilization, cities, monumental buildings
 - agriculture -> first civilization
 - large surplus of food
+- made science possible
+- it created the possibility for spare time because of surplus of food
+- people can sit down and think 'why'
 
 *** Sumerians
 - first pyramids
@@ -292,6 +295,282 @@ Nomadic people
 * Applied Science
 ** Ancient Greece
 - because their religion was different, they came up with modern science
+- first to apply scientific theory to technological ends
+  + warfare, lots of Romans died
+** Components needed for science
+1. free time
+2. record keeping
+3. standardized measurement system
+4. mathematics
+
+Sumerians, Babylonians and Egyptians had these components, but no science. Why?
+- because of religion
+- people powerless in their relations with gods
+- no public communication networks (like old school internet)
+
+*** Religion
+Greek mythology
+
+Greeks are different because in their world, they interacted with gods
+- Greek mythology has humans interacting with gods
+  + humans had sex with gods
+- separation of divine from natural phenomena
+  + tried to explain/understand how the world works without the intervention of gods
+- Hesiod
+  8th century BC
+  + gathered greek myths and combined it into what we now know as Greek Mythology
+  + trigger for modern science
+  + argued that there are all these different gods around -- sea, lightning, well-being, etc
+    - we as humans can understand the workings of the universe without divine intervention
+  + influenced pre-Socratics
+    - Miletus c. 600BC
+
+*** Agora
+- city square where you could say anything you wanted
+  + I believe that....
+- people could criticize government
+  + ex: Socrates constantly complained about the government
+- public discourse
+
+
+*** Miletus
+- c. 600BC
+  1. Food surplus
+  2. spare time
+  3. writing
+  4. mathematics
+  5. time keeping
+====================================
+     new to Acient Greece
+====================================
+  6. separation of divine from natural
+  7. unrestricted communication networks
+
+     This all came together
+
+*** Law system: Tangible Evidence
+- open presentation of evidence
+- prove guilt by showing evidence
+- prove something beyond doubt -- this is how we do science today
+** Philosophers
+1. Thales of Miletus
+   + c.624-574BC
+   + rejected divine intervention
+   + first philosopher/scientist
+     - used mathematics to try and explain things
+   + we don't know much about him, first one known in the record
+   + figured out how to find the height of pyramids by their shadow
+     - good at geometry
+   + first Greek astronomer who could predict solar eclipses
+   + found electricity by charging amber by rubbing it
+     - no evidence to suggest this though but the important thing is that the Greeks knew about static electricity
+   + died by falling into a well while observing the sky
+   +
+2. Alexander of Miletus
+   - c611-546BC
+   - student of Thales (above)
+   - made a first world map
+     + wasn't that great but impressive for the time
+   - evolution theory
+     + he thought that humans originally evolved from fish
+     + latest modern theory today says that land animals originated from the ocean
+   - for the first time, society (tried to) explain its origins without the divine
+3. Pythagoras
+   - argued that fundamental reality can be understood and studied/expressed only by mathematics
+   - argued that math is a universal language
+   - one of the first Philosophers who tried to understand the universe (how planets move)
+     + Hestia, a big fire in the centre of the universe, gives energy to everything else
+     + Earth and Sun orbit Hestia
+     + Counter-Earth shields Earth from Hestia's fire
+     + outer sphere of fixed stars
+       =====================================
+       up to this point, Scientists and Philosophers were the same
+
+       now it starts to split
+       =======================================
+4. Parmenides of Elea
+   - c.515BC
+   - science based on observation versus philosopher
+   - part of stoic movement
+     + nothing really matters
+     + there is no point of acting on anything beause everything stays the same
+     + your senses are just an illusion
+5. Zeno of Elea
+   - c490-425bc
+   - follower of Parmenides, also a stoic
+   - if you believe that there is no change, motion is not possible
+     + motion is not possible without change
+   - paradox of a runner
+     + the runner can never reach the end of his run
+     + there is an indefinite number of divisions between the runner and the finish line
+6. Plato
+   - 427-347BC
+   - student of Socrates
+   - interested in the sky, fundamental reality
+     + in between stoic and not being stoic
+   - true knowledge cannot be gained through senses
+     + our senses are unreliable
+     + allegory of the cave
+       - in order to get true knowledge, we have to remove the chains and limitations of standard human perception
+       - people chained and only seeing a wall with shadows have no idea of the world beyond those shadows.
+         + break the chains, for example, like how the microscope allowed us to find bacteria and discover something new
+
+   - sphere is a perfect form with no impurities
+     + 388BC created first school: Academy
+     + teaching was entirely dialogue, discussion between student and teacher
+     + kind of like a gymnasium
+       - swimming pool
+       - work out equipment
+       - lots of parties
+         + get drunk
+         + orgies
+       - only for men
+         + believed women should not be involved in philisophocal and scientific endeavours
+           - women viewed as less than men
+         + highest degree of love was believed to be between 2 men
+
+7. Empedocles
+   An empericist
+   + c. 492-432BC
+   + believed that whatever you experience/discover in science can only be done through your senses, through emperical evidence
+   + used an experimentatal approach like modern science
+   + first volcanologist
+     - wanted to find how hot volcano is
+     - jumped in and died
+
+8. Democritus
+   - c.460-370BC
+   - experimental approach
+   - reductionism
+     + breaking things down into the smallest components possible
+       - took students to beach
+       - told student to hit sand grain with rock many times until you couldn't see anything
+         + there is something still there, a small particle we can't see
+         + theory of the atom
+           - everything is made from atoms
+           - things are created when atoms come together
+           - nothing exists exept atoms and empty space
+9. Aristotle
+   - 384-322BC
+   - student of plato
+   - most influential
+   - proved Earth is a sphere
+     + lunar eclipse earch cast a circular shadow
+   - thought Earth was at the center of the universe
+   - introduced physics
+     + concept of resistance
+     + the greater the resistance the slower the body moves
+     + no motion without a mover being in contact with an object
+       - this is what he thought, obviously wrong today
+       - could not explain how an arrow flies with no one touching it in midair
+   - "father of biology"
+     + dissected animals
+     + vivissected (cut while still alive)
+     + classified species
+   - created a school:  Lyceum 335BC
+     + still get drunk and have orgies lilke in Academy
+     + education started to evolve into technology
+
+     Towards end of his live moved away from empirical to logic
+
+     Senses leads to observation which goes to your mind
+     mind leads to logic
+     logic leads to knowledge
+
+     A 3-legged dog is not a dog, because dogs have 4 legs
+
+10. Aristarchus
+    - 300BC
+    - heliocentric model of universe
+
+*** Lyceum
+- Aristotle
+- a *system/technology* used to create perfect citizens/leaders
+- failed miserablly
+- a student was Alexander the great (turned around and captured Athens lol)
+- failed to recognize that people are not always good
+
+** Women
+note: even though women couldn't do philosophy or science, they were allowed to be doctors
+In the Greek world, it's the first time women were allowed to practice medicine
+
+Agnodike did not exit
+
+- Iatra (doctor)
+- Maia (midwife) -- there were midwives in other societies
+- Male doctors could not deal with female patients, they kept dying
+- female doctors only worked on female patients
+
+
+
+
+*** Siege of Syracuse Archimedes
+- c287-212BC
+- a great inventor
+- invented the gearbox
+  + moved a ship using just one hand
+  + invented the gear
+  + clocks, mechanical computers were made later
+- Syracusia
+  + c241BC
+  + largest ship of the time
+  + too big to enter the port
+  + steam boiler
+    - did not power steam engine, not that advanced yet
+    - worked by creating vaccum
+  + water pumps
+- mechanical Planetaria
+  + a mechanical computer
+  + displayed the movements of all known planets automatically
+- mechanical clock
+  + copied by Islamic scholars
+  + powered by falling hour
+  + every hour, a bird would come out like a cuckoo clock
+- Antikythera
+  + oldest mechanical computer
+  + believed to be used for navigation on ships
+**** Syracuse
+- home town of Archimedes
+- Romans hates Carthaginians
+  + had to pay dues anytime they wanted to do trade inland Africa/turkey
+- King Hiero II allied with Romans because they were bound to attack
+  + civil war
+  + pro-Carthaginians won
+  + broke alliance with Romans
+  + Romans upset, use Syracuse as an example
+  + 214BC Marcus Claudius Marcellus
+    - navy and land army were to wipe out Syracuse at the same time
+    - brutal military leader
+  + Archimedes put in charge to defend Syracuse
+    - designed contraptions to ward them off
+    - invented gigantic catapults
+      + they basically see big trees coming up from the ground behind the walls, and bit rocks fly and kill their men
+      + land forces got scared and retreated
+    - iron claw
+      + navy continues to attack
+      + they see their navy ships becoming airborne as the ships approached the walls
+      + grab a ship and take it completely out of the water and swing with the crew still in there
+      + release the lever/counterweight, and boat goes right to the bottom
+    - crane
+      - for the few ships that made it past the iron claw, they found the crane
+      - heavy rock dropped onto ships, and they made a hole and they sunk
+      - navy retreats away from catapults
+    - death ray
+      + one more surprise
+      + their ships went ablaze
+      + big concave mirror, reflect sun ray
+        - set ships on one by one
+
+212 BC Celebration of victories over Romans
+Romans have been at it over like 2 years, and Archimedes has a new terror weapon each time
+- but this time, there was a traitor who opened up the gate while they were partying, and then they got completely decimated by the Romans
+- Archimedes did not bathe, he was very smelly, because science comes first
+- when Syracuse was taken, they ordered Archimedes to live, because they were amazed with his genius
+- when they found him, he just kind of refused to go because he was doing math in the middle of armageddon
+  + soldier finally got fed up and just offed him lol
+- all of his writings and inventions captured and kept intact by romans
+- *Archimedes studied at Alexandria*
+
 * Invention of inventing
 ** Alexandria
 * Engineering under Roman Empire
