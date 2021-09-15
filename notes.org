@@ -572,7 +572,130 @@ Romans have been at it over like 2 years, and Archimedes has a new terror weapon
 - *Archimedes studied at Alexandria*
 
 * Invention of inventing
-** Alexandria
+** Alexander, Alexandria, and the library
+*** Macedon
+- Alexander the great king
+- Macedonian king
+- lots of gold
+- good farming
+- best army in the world (cavalry)
+  + employed (paid) full time by the government
+- Macedonians big fans of greek culture
+
+*** Phillip II
+- father of Alexander
+- captured Greece (except Athens)
+- assassinated 336BC
+  + killed by son (Alexander)
+*** Alexander the Great
+- first edith (act as king) was to murder entire family
+- good military leader, terrible person otherwise
+  + understood that the Persians (largest empure at the time) was a threat
+  + unite Greeks against Persians
+    - failed miserably
+  + 334BC invaded Persia (30000 infantry, 5000 cavalry)
+    - suicide mission
+    - Alexander won against the largest army in the world
+    - some Persian cities after just surrendered immediately without a fight afterwards
+  + 332BC captured Egypt, made a pharaoh/living god
+    - Egyptians hated Persians, supported Alexander
+    - They made Alexander a Pharaoh/living god
+      + went crazy
+      + killed people for no good reasons
+    - new capital of Egypt - Alexandria
+  + 323BC got drunk/poisoned
+    - either way, died
+    - collapse of empire
+    - Ptolemy I
+*** Hellenistic Period
+- assimilation of Greek culture/style
+*** Alexandria
+- 331BC new capital of Egypt
+**** Ptolemy I
+- 305BC
+- Macedonian general
+- embraced Greek culture
+- poet/philosopher/artist
+***** Mouseion
+- c280BC
+- library
+- world's first research institute
+  + like today's universities
+- paid by government
+- divided into faculties
+  + scholars/scientists paid
+  + they do research and teaching
+- Alexandrians (Greeks) first modern concept of health
+  + first to study anatomy
+  + trace nervous system
+**** Library of Alexandria
+- c. 1 million books (original texts)
+  + Ptolemy I, II... with all his wealth got the original texts, not copies
+  + stolen, wars fought, bought for high price, etc
+- books extremely rare, expensive to produce
+- 235BC Ptolemy III second library/backup library
+  + underground
+  + copies of important books
+    - eg Aristotle, Plato writings
+- Alexandria destroyed many times by 200AD gone
+- backup library survived until 391AD - Christians
+- 642AD Arabs
+  + destroyed what the Christians missed
+- 700AD some scripts rediscovered by Islamic scholars
+  + renaissance of science
+
+** Eratosthenes
+- almost nothing survived from Alexandria
+- c284-192BC
+- teacher/director of the great library
+  + was a teacher of math
+- set out to measure circumference of Earth
+  + 250 000 stadia (~40 000km)
+    - stadia is the length of an olympic stadium
+    - only like 30km off
+- also easured distance from Earth to Moon and Sun
+  + 804 000 000 stadia
+  + 780 000 stadia
+- tilt of Earth's axis (23.5 degrees)
+- introduced chronology
+  + numerical dating for historical events
+  + first star catalogue (675 starts)
+
+** Heron - magic of technology and invention of inventing
+- Islamic scholars borrowed heavily from him
+- c10-75AD (around when Romans captured Egypt and Alexandria)
+- teacher/inventor
+- Pneumatica (based of Ctesibius and Archimedes)
+  + a textbook for students, demonstrates experiments and stuff
+- 11 contraptions
+  1. programmable robots
+  2. self powered vehicles
+  3. operational steam engine c50AD
+  4. jet powered steam turbine
+  5. vaccum pump
+  6. coin operated vending machine
+     - holy water
+     - wine
+     - differant coins vended different things (e.g. more expensive wine)
+  7. fire engine
+     - based on vaccum pump
+     - basically an industrial revolution steam engine
+  8. automatic door
+     - peasant pays dues, priest lights fire, door opens
+  9. light sensors
+     - switches that would turn machines on or off when exposed to sun or light
+  10. high pressure atomizer (spray)
+      - perfume bottle
+      - carburator based on this (best car at the time, Mercedes)
+  11. wind powered machines
+      - organ and piano
+      - pump attached to windmill
+  12. .
+
+- Romans took over, were not interested in steam engines, other contraptions
+  + they had a lot of people to put to work, steam engine would mean less work to do
+  + regarded the contraptions as toys
+  + Heron not interested in selling/commercializing his inventions
 * Engineering under Roman Empire
 * Chinese and European Connection
 * Revolution in Time
