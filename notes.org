@@ -697,6 +697,149 @@ Romans have been at it over like 2 years, and Archimedes has a new terror weapon
   + regarded the contraptions as toys
   + Heron not interested in selling/commercializing his inventions
 * Engineering under Roman Empire
+- our law system is based on Romans
+- our language is based on Latin
+
+- 753BC Rome founded by Romulus
+- lasted about 500 years
+- Roman Republic 510 - 44BC
+  + ended when Julius Caesar came to power in 44BC
+- Roman Empire 44BC - 500AD (West), 1453AD (East)
+  + ended when Constantiniple was taken in 1453AD
+- Roman empire split in 2 halves: east and west
+- wealthy people sponsored public projects
+  + anyone could visit public buildings, not restricted to wealthy,  unlike Egypt
+- population over 1 million
+  + pollution
+  + housing crisis
+  + crime
+  + same issues as today
+
+** Army Structure
+- used Phalanx-Greek system initially
+  + long spears
+  + lower spears, enemy charges, and they impale themselves
+  + avoids hand-to-hand combat which is heavily demanding on the human body
+  + basically, whoever attacks first loses
+  + alexander was successful because he cut them in half which made it more maneuverable
+  + Romans copied too
+- 3000BC they abandon Phalanx
+***  Roman 3 line system
+   actually made of 4 lines
+   4200 men, 1 "Legion"
+1. 1200 Velites (first line)
+   - big shields
+   - block long range weapons, until the enemy runs out and they are forced to charge
+   - no weapons, they run and hide behind main troops when enemy charges
+   - youngest men, Romans didn't really count them as troops
+2. 1st line: 1200 Hastati
+   - first assault
+   - combine shortened spear (compared with Greeks) with full body shield
+   - only stick pokes out
+   - tough, well trained
+   - weapons can't really penetrate shield, and spear would kill you before hand-to-hand combat
+3. 2nd line: Principes
+   - strongest
+     + big, experienced, muscled
+4. 3rd line: 600 Triarii
+   - oldest/veterans of wars
+5. the 3 line system means the troops didn't get tired
+   a. continuous supply of troops
+   b. join them or get destroyed
+   c. other people didn't have as many allies, couldn't use same tactic
+*** New system for recruitment
+- before 107BC Only the wealthy were in army
+  + ususally your daddy is a General
+  + you're in the army for only as long as the war lasts
+  + gain fame, prestige, loot
+  + when war happens, importand government people are gone
+- landless/poor paid career
+  + no longer restricted to wealthly
+  + a nobody could become prestigious, also get loot, earn higher salaries as they climb the ladder
+  + retirement package
+    - after 25 years, you can retire, and the government gives you land and income
+    - not many people survive 25 years in the Legion
+      + that is, until there were no more allies to make
+      + start running out of land
+      + some army rebels against government to get their retirement package
+    - romans expand rapidly
+    -
+** Forts
+- Romans liked standardization
+- every fort had:
+  + running water
+  + plumbing
+  + public/private toilets
+  + baths
+  + heating system
+    - forced air, like today, modern era
+**** Castra
+- stone forts
+- special engineering units
+- educate and hire engineers
+  + sumerians originally had engineers, but no standardization
+- each Legion had engineers paid by government which did construction of forts
+- evolved into medieval castles (castles copied their design)
+
+** Communication revolution
+- like ancient day amazon, ebay, gmail
+- can write letter, request items
+  + everybody had access, not just for wealthy
+- even women and slaves were literate
+*** Vindolanda letters
+- c97-103AD
+- women, slaves, foreigners, everyone could participate
+- affordable and *standardized*
+- latin
+- flat piece of wood (papyrus was expensive)
+- celebrated birthdays, new years, etc
+** Roads
+- all roads lead to Rome
+- built to last
+- labour intensive
+- building roads was a way to control people
+  + like the pyramids, putting people to work means less rebellions
+  + kept soldiers occupied
+  + roads built by army NOT slaves
+- how to build road
+  1. send engineers
+     - groma used to get right angles
+     - laid down straight road plan
+     - dig a ditch 1.5m deep (Fossa)
+  2. Pavimentum
+     - compacted sand or dry earth
+  3. Statumen
+     - crushed rock
+  4. Rudus
+     - cemented large gravel
+  5. Nucleus
+     - cemented sand and small gravel
+     - like modern concrete
+  6. Summum dorsum
+     - large stone slabs
+     - the road surface
+     - carved rocks
+     - they were curved outward
+       + gets water away from road, into ditches
+  7. Parallel drainage ditch
+- milestones
+  + every 1.5km (1 Roman mile)
+**** Infrastructure
+- inns
+- hotels
+- restaurants
+- changing stations
+- "gas stations": hay for horses to eat, place to rest
+**** Millarium Aureum
+- golden milestone
+- like ancient google earch
+- would tell you what roads to take, where to turn, etc
+  + nearby establishments
+  + hotels, accommodations
+  + what boats to take
+
+** Development of modern city Rome
+** Science and Natural philosophy
 * Chinese and European Connection
 * Revolution in Time
 ** Time before machines
