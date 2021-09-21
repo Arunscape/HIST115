@@ -708,7 +708,9 @@ Romans have been at it over like 2 years, and Archimedes has a new terror weapon
   + ended when Constantiniple was taken in 1453AD
 - Roman empire split in 2 halves: east and west
 - wealthy people sponsored public projects
-  + anyone could visit public buildings, not restricted to wealthy,  unlike Egypt
+  + anyone could visit public buildings, not restricted to wealthy,  unlike Egypt, Sumerians
+  + resources collectively spent on public structures instead of on stuff restricted to certain groups
+    of people
 - population over 1 million
   + pollution
   + housing crisis
@@ -839,7 +841,138 @@ Romans have been at it over like 2 years, and Archimedes has a new terror weapon
   + what boats to take
 
 ** Development of modern city Rome
+*** Cement
+- lime
+- volcanic ash
+- water
+- instead of sand, they used volcanic ash which turned out to make the cement strong
+- then they would hang marble off of the cement using bronze hooks
+- they used the greek Doric style
+- Ionic style also, almost any government building has the Ionic pillars
+- Corinthian style is the most elaborate style
+  + most expensive to produce
+- columns built in sections on a lathe
+  + joined together with shaft though center hole
+*** Building a building
+- funded by magistrates
+- has to be approved by senate (even an emporer)
+- building is a provilege
+- if you're not an emporer, you couldn't build a private house or villa
+  + can build temple
+  + theatre
+  + library
+  + bathhouses
+  + anything public
+- this is a good way to show off personal wealth
+- you get to put your name on the structure
+  + just like telus world of science, rogers place, etc
+*** Flavian Theater
+- known as colosseum today
+- built by Vespasian (Flavia family)
+- big building testifying prestige and strength of emporer
+  + big buildings == big pp
+**** Games
+- staged.
+- people were trained to fight the animals
+  + expensive to train
+- gladiators expensive don't want to lose them too often
+- Weird sex practices were demonstrated
+  + enternainment
+  + recreate bizarre sex practices from Greek mythology for examples
+  + e.g. sex with animals
+  + some women died because they did it with large animals
+***** Water games
+- flood coliseum
+- recreate 1:1 scale naval battles
+- largest shows ever
+- we have no idea how they did it
+- no idea how the building could take all the water pressure
+***** Social Control
+panem et circenses
+
++ bread and circuses
++ if you provide your public with free food and entertainment, people love you
+  + take any one away, and people get upset and turn against the government
++ when the games were on, you didn't go to work because it's a civic day
++ some of these games went for a long time, (paid holiday by government)
+  - ex: largest show- Trajan 107AD, 123 days
+  - at the height of the Roman empire, sometimes you watched the games more than working and got paid!
+  - thumbs up means finish off somebody
+  - thumbs down means put sword away
+  - backwards to how we interpret it today
+*** Circus Maximus
+- largest public structure probably ever
+- 250-500000 spectators
+- chariot racing
+*** Water
+- running water (aquaducts) first to use arches and the water system on massive scale
+- toilets, baths, underground sewers
+- Jereusalem also had these, but only for the priests. The cities didn't have them
+- first to have public toilets
+  + didn't happen again until 1851
+- instant removal of pollution from under you
+- paper was expensive, so they used sponges on a stick which were then put in a bucket and reused
+
+**** Cloaca Maxima
+large sewer system
+- sewer designs today are basically the same
+- main tunnel to deliver all the waste water, which then dumps into a ruver
+- nowadays, we have water treatment
+**** Plumbing
+Stinking Venus
+- if you had issues, you didn't call a plumber
+- you go to Venus Cloacina in a temple
+- pour wine into head, throw coins, there's a pipe which goes directly to Cloaca Maxima which stinks
 ** Science and Natural philosophy
+200BC (after Syracuse) Greek philosophy/science entered Rome
+*** Posidonius
+135-51BC
+- Roman scientist
+- correct theory of ocean tides
+  + related to the moon
+  + he didn't understand gravity, but knew tides were correlated to the moon
+*** Pliny the elder
+24-79AD
+- system for collecting information
+- first encyclopedia of information
+- kind of like ancient Wikipedia
+  + mixture of fiction, information, misinformation, and truth
+  + access to information, but not necessarily to truth
+  + easy to look up information, cross reference
+*** Claudius Ptolemy
+127-148AD
+- lived in Alexandria
+- nothing to do with Ptolemy kings or Cleopatra (over a century ago at this point)
+- the Almagest
+**** the Almagest
+- first mathematical model of cosmos
+- got it wrong, but first to try
+** End of Rome
+300-500AD
+- Christianity - 300AD new capital Constantinople
+  + roman emporer Constantine
+  + saw fish as Christian symbol
+  + thought Christian gods supported him
+  + ordered that everyone in the Roman empire be Christians
+  + funny because they used to kill Christians a lot
+  + split between east and west because they couldn't decide on one type of Christianity
+  + Constantine wanted to move away from Rome because it was filled with Pagean temples
+  + made a new capital Contantinople
+  + marble burned and turned into lime
+- not captured, collapsed on its own
+  + government not there to pay for upkeep of infrastructure
+  + by 500AD Rome is deserted
+- no one was left to pay for upkeep of roads, sewer system, etc
+- had to do with religion
+- 410AD 'Sack' of Rome by Visigoths
+  + this is a myth, no fighting
+  + they just kind of marched in and there was nothing of value so they smashed stuff
+  + found bronze hooks
+    - bronze is expensive, so they demolished stuff to collect bronze
+- Eastern Roman Empire (Byzantine Empire)
+  + survived until end of medieval period 1453
+  + new technology, came from Ancient China
+  + pigs used as terror weapon
 * Chinese and European Connection
 * Revolution in Time
 ** Time before machines
