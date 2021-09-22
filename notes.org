@@ -974,9 +974,184 @@ Stinking Venus
   + new technology, came from Ancient China
   + pigs used as terror weapon
 * Chinese and European Connection
+** Chinese technologies and Europeans
+- at the time China most technologically advanced, but not much happened like in Alexandria
+- the Chinese never really used all the advanced technologies they had/invented, unlike when the Europeans got a hold of it
+  + because of religion and government
+  + they could've conquered the world, had an industrial revolution
+  + had it all, and said no to technological progress
+    - because government did not want change
+    - they understood that new technology comes with social responsibilities and change
+
+*** Compass
+- basically a bowl with water, cork, and a needle on a cork
+- they used the compass to make political decisions (who to vote for)
+  + not for navigation
+- Europeans used compass to navigate, conquer world
+  + while Columbus was sailing, the Chinese made huge vessels
+- Columbus's ship looks like a rowboat in comparison
+- the Chinese never really ventured far
+- concluded that basically everyone else is back in the stone age
+  - decided to isolate, protect what they have
+  - build wall
+  - emporer ordered destuction of ships
+*** Elixir of Life (Black Powder)
+- potassium nitrate
+- charcoal
+- sulfur
+- supposed to give everlasting life
+- when the water dried out, they accidentally found black powder
+*** Black Powder
+- initially used it for religious festivals, not for warfare
+- lots of noise is good for getting rid of evil spirits
+- eventually figured out that if you put black powder in a tube, seal one end, it flies
+  + invention of rockets
+  + still primarily for religious festivals
+- When Europeans got hold of this technology, they made bigger rockets
+  + weapons of mass destruction
+*** Different approach to change
+- government/religion/world view
+- in the western world, we view change as good, growth of society
+  + rapid change = good
+- in China, rapid change = imbalance (bad)
+  + they like equilibrium, everything in balance
+  + probably a connection with the ying yang here
+*** Pigs
+- pig's urine (ammonia)
+- combined with pig's droppings = potassium nitrate
+- gunpowder 800AD China
+- cannons 1320s AD - China
+  + technology transfer - Mongols - Turks
+*** Constantinople
+- largest fortress at the time
+- thick walls, believed to be impossible to destroy
+- Christian capital in the middle of Islamic region
+- Turks got cannons from Mongols who got it from Ancient China
+  + used cannons to beseige Constantinople
+  + broke walls
+- conquered by new technology
+*** Cannons
+- no impact on battlefields
+  + inaccurate
+  + killed own crew more than enemy
+    - cannon could fall apart and explode
+  + only good for breaking down walls/castles
+- changed social structures/towns
+- cannons were not durable
+- *medieval castles obsolete*
+- instead of knights in armour, we move to need for books
+- castles turn from fortresses to places with philosophy, science, not as much emphasis on thick walls
+  + i.e. places for discourse
+*** Need for books
+- greek books from Alexandria
+- Arabs basically rediscovered some of the texts back in 700s AD Iran
+  + found original tests from the backup library of Alexandria
+  + mathematics and technological innovations
+    - almegist
+  + mathematics didn't contradict their religion
+  + translated to Arabic
+  + Al-Mamun House of Wisdom 700s AD
+    - survived until 1095AD
+  + Alexandria books basically survived in the form of Arabic
+- 1095AD Pope of Rome, Christianity largest political, social force in every aspect of life
+*** Knights
+- elite groups
+- horses
+- connected to kings and queens
+- actually terrible, killed peasants for no good reason not like the heros in movies
+- eventually turned against government because there was nothing better to do
+- only job is to convert everyone to Christianity
+- not many Pagans left (non Christians)
+- lost their purpose
+- not really organized, work as individuals
+**** Crusade
+- solution to knights causing problems
+- send them to the end of the earth, hope they don't come back
+***** First Crusade
+1905
+- the knights actually came back
+- they successfuly recaptured Jereusalem
+- they discovered books in Jerusalem
+- books were extremely expensive, as in an entire village with the peasants included just for one book
+- spoils of war - Arabic books which were the translations of the Greek texts
+- Greek -> Translated to Arabic -> Translated to Latin
+- a lot of Greek ideas did not go along with Christianity, so the Latin translations were modified
+*** Thomas Aquinas
+- 1255-1274AD
+- by 1255AD Aristotelian teaching/philosophy
+- Ptolemaic/Platinic cosmos part of Christian idology
+- huge demand for books like the ones by Aristotle
+- there were only a few copies available
+- hand written copies not being produced fast enough
+** Gutenberg, printing press, medieval revival of ancient knowledge
+- how can the huge demand for books be met
+- probably most important technological innovation
+- from 0 books to 11 million in 50 years
+- rediscovery of Greek and Roman knowledge
+- development of sciences and new technologies
+- social and political changes - scientific revolution
+- leads to the Renaissance
+- to make paper you need:
+  1) Paper (white)
+     - ancient China in 1st century AD
+     - kept as a secret by China
+     - in 11th century AD came to Europe
+       + literally stolen from Chinese
+       + captured ancient Chinese paper makers and tortured them
+     - turns out making white paper is really expensive
+       + made out of linen fibers
+       + expensive to produce before 1347
+       + too cold to grow linen
+     - in 1357, black death
+       + linen underwear turned into paper (from possessions of dead people)
+     - huge spending (increase in wealth) from survivors
+     - anyone who had money wanted to buy books
+       + for knowledge
+       + also status symbol
+       + Bible most expensive book to own
+     - Monks/scribes wiped out in 1347
+       + almost all died because they spread the plague by collecting in churches and praying together
+       + people responsible for making bibles wiped out
+  2) Fast Drying ink
+     - Reusable type
+     - Press
+       + Archimedes had a screw press to press wine and olive oil
+       + present during medieval period unlike the others, which had to be acquired
+- Gutenburg was a gold smith
+- wanted to be wealthy
+- realized that introduction of printing press and mass production of Bibles could make him wealthy
+  + ultimately ended up homeless
+  + died in poverty
+    - got a loan from Fust to buy lots of Linen
+    - Fust forged a different contract that stated that Gutenberg must pay back huge loan + interest before Gutenberg sells bibles
+    - Fust comes with police and takes posession of everything he had, threw him out
+  + he did not invent the printing press
+  + he invented oil-based ink
+    - nicer writing for books
+  + new alloy of lead and tin
+    - perfect for press, don't need a high temperature furnace, and tougher than wood, durable
+- 1450 Gutenburg's printing press
+  + diffusion of technologies from China
+  + 1455 Gutenberg bible (42-line Bible)
+  + best quality books around
+  + every page looked the same
+  + standardization
+  + first mass produced books
+  + China had printing press, and books but they did not mass produce them
+    - Diamond Sutra
+    - Chinese language more complex to print, latin alphabet had way fewer characters
+  + Jikiji
+    - movable metal type 1377AD Korea
+*** Black death
+- eliminated up to 50% of Europe's population wiped out
+- but people's possessions are still there, like clothing
+  + *underwear* made of linen
+  + underwear was turned into paper
+- also extra animals, horses, etc
+- poor people who survived became wealthy
+- survivors have lots of wealth
 * Revolution in Time
 ** Time before machines
-**
 * Mechanical Universe
 * Age of experimentation
 * From experimentation to utility
