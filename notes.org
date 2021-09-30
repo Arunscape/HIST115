@@ -1152,6 +1152,170 @@ Stinking Venus
 - survivors have lots of wealth
 * Revolution in Time
 ** Time before machines
+*** Sundials & Water Clocks
+- invented by Sumerians
+  + water clocks wre used by Alexandrian doctors to measure pulss
+- can measure time indoors and at night (water clock)
+*** Candle Clock
+- water freezes at night in medieval Europs
+- invented in China c500 AD
+- works indoors, and at night
+- designed to be an alarm clock
+  + candle is pre-calibrated, each notch represents an hour
+  + put a nail in the side
+  + candle melts, and in time, nail will fall, make noise, and hopeflly you wake up
+- expensive
+- caused a lot of fires
+*** Sand clock (hourglass)
+- too expensive, rare
+- only glass makers in Venice could make them
+- not accurate, have to flip it
+** Mechanical Clock
+- Archimedes's clock did not survive
+- Abdul-Abbas clock 800d (islamic scholars version of Archimedes's clock)
+- Mechanical contraption mounted on white elephant
+- basically a cuckoo clock, every hour a bird comes out to indicate passage of time
+*** Escapement mechanism
+- gear with directional notches and rod
+- pulley and rope with weight attached
+  + constant force on wheel
+  + bar stops wheel from spinning out of control, bar releases wheel one notch at a time
+  + weight now converted to precise time interval
+*** Su Song Clock
+- China 1094AD
+- basically a gigantic mechanical computer
+- looks like Archimedes planetaria
+- movements of planets and passage of time
+*** Monks - Roman Catholoc Church
+- need to wake up and pray
+- missing prayers = sin, big deal
+- c1327 Monk Rickard of Wallingford
+- reinvention of mechanical clock in medieval Europe
+- alarm clock, had a bell
+- every hour, the bell would ring
+**** Astrarium
+- 1364
+- Giovanni de'Dondi
+- mechanical computer
+- Calendars, movement of planets
+- universe represented as a machine for the first time in Medieval Europe
+  + one missing component, something important to them
+
+** Chronometer
+- very precise, small fractions of a second
+- leads to modern watch
+*** John Harrison
+- carpenter
+- liked building clocks
+- first clock (wood)
+  + everything, gears, etc are wood
+- his dream was to participate in the dream-Longitude prize
+
+**** Longitude Prize
+- 1714 (20,000 pounds, over 10M USD today)
+- Lattitude was easy to tell (North-South)
+  + declination
+    - at noon, measure distance between horizon and sun
+  + lots of fleets lost
+- Longitude really hard to measure (East-West)
+  + need precise timepiece
+  + accurate within 1 second per day
+  + most accurate modern mechanical clocks today (2020s) are only accurate within 6s per day
+- Best clocks 1-20 minutes per day on land at the time, so this was basically impossible
+  + pendulum doesn't work on sea
+
+
+**** Marine clock (H1)
+- 1736
+- Harrison's first marine clock
+- first time in human history where someone built a machine which can adapt to environmental conditions
+- could adapt to changing tempurature, humidity, and still be accurate
+  + springs expand/shrink
+- he didn't get the prize :(
+- the committee kept the clock, took the blueprints, only gave a small amount of money
+**** H2
+- 1741
+- even more accurate then H1
+- smaller
+- adapts to the environment better
+- same story
+**** H3
+- 1759
+- same story again
+-
+**** First Watch (H4)
+- 1761
+- for the first time, able to measure seconds
+- they actually evaluated this clock
+- given to captain: James Cook
+  + he confirmed the accuracy
+  + secret report
+  + too good, he argued that if they used the device, and their ship was captured, they'd lose the British Empire
+  + suggests to hide it and never use it
+- Harrison was told his clock is not accurate enough anymore
+- too old, depressed, poor eyesight (77 years old), somehow still creates H5
+**** H5
+- 1770
+- *most accurate timepiece until 1968*
+- still portable, it's a watch
+- sent it directly to the King of England
+- King of England confirmed it only lost 4 seconds in 10 days
+- (basically, they use starts to measure accuracy)
+- King of England sent letter to the prize committee
+  + says Harrison must be awarded
+  + in the end, the committee changed the prize, and he was never awarded
+  + King sent him a separate pension
+
+
+**** Aftermath
+- clocks lost, he died 5 years later
+- 1927 discovered at Greenwich
+- the clocks are still ticking today in Greenwich
+*** Petek Phillipe Co.
+- wrist watch 1868
+- the more accurate a watch, the more valuable it was
+  + not the case today in 2020s
+
+**** Technological retrogression
+- a $10 watch from walmart is way more accurate (at least 10x)
+- a Petek Phillipe watch is obsolete, still costs $11M
+- we no longer attach value to accuracy, but rather aesthetics and status symbol
+*** Time Trials
+- 1700s-1903 British
+- best/expensive watches would compete
+- British would produce most expensive, most accurate watches
+- 1903 Switzerlands starts producing pocket watches
+*** Swiss Watches
+- mass production inexpensive
+- British manufacturers refused
+  + pocket watch was a status symbol
+  + they did not want to mass produce to give commoners watches
+- 1903-1968 spplied 80% of watches
+- 1968 last time trial, Swiss won
+  + Seiko quartz
+    - electrical current makes quartz oscillate
+  + 10 times more accurate than any mechanical watch
+  + stopped producing because they thought it was ugly
+    - production moves to Japan in only 1 year
+    - then, to China
+*** Atomic clock
+- 1950s
+- Cesium
+- proves time travel is possible
+  + if you have a record player playing, put 2 pocket watches,
+  + one on outside of record
+  + one on inner ring
+  + can see that the watch on the outside of the circle is travelling faster than the other
+  + Albert Einstein theory of relativity (time is relative)
+  + Experiment: put 2 atomic clocks in different military aircraft
+  + one flying in smaller radius, one in larger
+  + atomic clocks proved that there was a difference in time between the aircraft
+  + time changes based on relative speed of object
+*** Impact of clocks
+- the mechanical clock started a chain of events, changed the way that people think
+- clocks were governed by completely mechanical principles
+- maybe planets move because of some laws of motion, not because of some supernatural force
+
 * Mechanical Universe
 * Age of experimentation
 * From experimentation to utility
