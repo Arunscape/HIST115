@@ -1317,6 +1317,169 @@ Stinking Venus
 - maybe planets move because of some laws of motion, not because of some supernatural force
 
 * Mechanical Universe
+** Scientific Revolution
+- Renaissance
+- period of evolution of natural philosophy into modern science
+- actually, it was a shift of how we look at the world around us
+  - question of why the universe (Greek approach) works to how the universe works (mechanical philosophy)
+*** What is science?
+- in that time: Scientia means "knowledge", it was for gaining knowledge
+- today: for profit, fame, war
+*** What is art?
+- s
+*** Historiography
+2 ways of looking at the past:
+**** internal approach (old)
+- scientists make discoveries without being influenced by social (external) factors
+- indipendent inventor/inborn genius
+- tl;dr you study the engineering approach, and ignore social factors
+**** external (new approach)
+- external social factors shape development of science/technology
+- ignore engineering/scientific factors
+- focus on social contexts
+  - government
+  - religion
+  - etc
+- no such thing as inborn genius
+**** 4 theories of how modern science came to beach
+
+***** Tomas Kuhn: The Structure of Scientific Revolution
+- internal approach
+- structuralist
+- tried to find a mathematical formula/ rigid structure to figure out how science happens, how theories form
+- concentrated on what happens with scientists in labs
+- how scientific ideas come about
+- no single revolution
+- a bunch of small revolutions, i.e. *paradigm shifts*
+  1. Established science
+  2. Normal science (puzzle solving process)
+  3. novelty/anomaly appears (something that could not be predicted)
+     - cannot be explained by esablished science
+  4. crisis in normal established science
+  5. emergence of a new paradigm (revolution)
+  6. new normal science
+     - the cycle then repeats
+***** Robert Merton (PhD thesis): Puritanism and the Rise of Modern Science
+- external approach
+- religion/external factors shaped scientific/technological progress (both positively or negatively)
+- no one really considered this at the time
+- Protestants used science to make profits
+- Roman Catholics did not
+- different approach to personal wealth
+- scientific revolution only happened in Protestant countries because the Roman Catholics believed that god would make you poor and miserable if he loved you
+- Protestants believed if god loved you, you'd be successful, wealthy
+- tl;dr it's not a coincidence that the scientific/industrial revolution only happened in Protestant countries
+***** Edgar Zilsel: The Social Origins of Modern Science
+- external approach
+- looked at the common workers
+- scientific revolution started by craftsmen who became scientists
+  1. theory: how machines work
+  2. experimentation: trial and error, observation
+  3. actual work/interaction with the devices
+- tl;dr medieval craftsmen should be recognized as scientists
+- they were doing it long before scientists called it science
+- often, new process, technology, innovation would come from the working class
+- e.g. John Harrison (the clock guy)
+***** Harold Innis: Empure and Communications
+- external approach
+- scientific revolution happened because of free access to knowledge/communication
+- i.e. modern science happened because of Gutenberg's press
+- it removed the *gatekeepers* of the system
+-
+****** Before gutenberg press
+if you wanted to publish, you had to go though the Roman Catholic Church
+1. propose publication
+2. gate keepers (Roman Catholic Church)
+3. impact (small)
+   - only a few copies made
+****** After 1450
+- gate keepers removed (Roman Catholic church can no longer control the spread of information)
+- can pubilsh your own ideas without being censored by the Church
+  1. Proposed publication/text print (on large scale)
+     - government can no longer control because of massive scale
+  2. impact of the work
+
+
+** Mechanical Universe
+*** Copernicus
+- remember Claudius Ptolemy?
+- first mathematical model of univerce with geocentrism and epicycles
+- University of Krakow (Capital of Poland, one of the best universities in Poland, paid for by the King)
+- poor student, had to move to Padua (he was the worst student in the class)
+- at the time, medicine was the lowest level type of study
+- probably killed more people than he cured
+- not great at math
+- part of scholastic movement (people who wanted to go back to the knowledge of the ancient Greeks)
+- improved Ptolemy's system to make it work with the Platonic
+  - Plato -- all motions in heaven are based on perfect circles
+- realized the Sun must be in the center of the solar system
+- 1543: De Revolutionibus Orbium Coelestium
+  - waited till the last moment to publish, because he knew the Church would be upset
+  - started Scientific revolution by questioning ancient laws of nature
+  - book was forbidden by the Church until 1960s
+  - because of the printing press, was not censored.
+**** Small aside: remember the clock?
+- c 1327 Richard of Wallingford
+- time measured in the hands of machine
+- no need to go outside and look at the sky to tell time
+- machine replaced God
+- clock had instant impact
+- Nicholas Oresme
+  - God is the supreme clocka (machine) maker
+  - the world/universe is a machine
+  - led to mechanical philosophy
+  - everything out there can be explained with math, not god
+*** Galileo
+- first scientist who applied mechanical philosophy in his publications
+- first major scientist who openly opposed Arisotelian logic
+- promoted repeatable experimentation instead
+- supported Copernical helopcentrism
+- rejected Ptolemy's system
+- used new technology: telescope
+- one of first to use the telescope to look at the sky (it was used before to look at ships from the harbour)
+- planets are not perfect spheres (Plato wrong)
+  - saw craters on moon
+- confirmed that the Earth moves around the Sun
+
+**** Starry Messenger
+- 1610
+- against Aristotelian and Ptolemic systems
+- Church: heresy!
+- missing component in Astrarium
+- the entire system was explained with mechanical components, no God
+**** Social connections
+- best childhood friend later became the Pope of Rome
+- saved his life a bunch
+
+**** Dialogue
+- 1632
+- play, comedy genre
+- Prolemic and Copernican astronomer
+- Pope
+- dialogue between the different astronomers
+- tl;dr the Copernican comes out of the conversation as someone smart, the others are called idiots (simplicio)
+- Pope could no longer protect Galileo so he was finally burned alive
+- tuens out it wasn't even the science that got him burned alive
+**** Holy Inquisition
+- 1633
+- Galileo on trial
+- the only way out is to be burned alive
+- when you are brought to the trial, you hope to be burned alive
+- before the trial you are tortured in unimaginable ways
+- by the time you got to the trial, you already are tortured, parts of body removed (legs, breasts..)
+- the end of the trial is the end of your misery
+- when Galileo was brought to the trial, he was intact, no torture (because he was friends with the Pope)
+- asked: If Eart moves around the sun, you must agree that the Earth is moving at a great speed
+  - how is it possible that we do not feel the fast movement?
+  - he could not prove it
+- died in house arrest 1642
+- could still see people
+- basically got off the hook
+**** Important takeaway
+- shifted the question from why the nature/universe works to how it works
+- because he used mechanical philosophy
+- beginning of modern science - Britain (Protestants)
+
 * Age of experimentation
 * From experimentation to utility
 ** Industrial Revolution
