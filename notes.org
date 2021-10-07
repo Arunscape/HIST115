@@ -1481,6 +1481,154 @@ if you wanted to publish, you had to go though the Roman Catholic Church
 - beginning of modern science - Britain (Protestants)
 
 * Age of experimentation
+** Lack of refrigeration and birth of experimentalism
+- no refigeration = spoiled meat
+- meat was restricted for upper classes
+  - during religious festivals, Roman Catholic church would hand out meat to the masses
+  - the meat was rotten
+  - how to make rotten meat edible? (smell/taste)
+  - throwing away food is sin, food is a gift from god
+  - solution: spices
+  - except there are no spices in Europe
+  - need to import from the East (Arabs), trade for gold
+  - Arabs were more advanced than the Europeans
+  - black pepper worth more than gold
+  - another problem: no gold in Europe
+
+*** Alchemy
+- Physica et mystica
+  - Alexandrian work
+- Razy Al: The secrete of Secrets
+  - Arab scholar
+  - book was about faking gold from other  metal/s
+**** 2 goals:
+***** elixir of life
+- also philosppher's stone
+***** transmutation
+- take garbage metal and try to turn it into gold
+**** James Price
+- the last true alchemist
+- bestseller book on "making gold from mercury"
+- Royal society invited him to present a demo
+  - goes to present
+  - says I'll be right back
+  - kills himself
+**** facts
+- first groupp of people to use experimental approach
+  - creating things that don't exist in nature
+- by 1600s producing dyes, perfumes
+  - people realized that making gold is a scam
+  - used to come from the East
+  - Alchemists became useful, creating new things
+- alchemy evolved into chemistry
+- most famous scienteists were alchemists
+  - Robert Boyle: Sceptical Chymist
+    - the book is basically an attack on alchemy (ironic)
+    - today known as the father of chemisty lol
+
+** Religion and experimentalism
+- Britain
+*** Francis Bacon
+- wealthy, powerful individual
+- new method (experimentalism) to undermine Aristotle
+- methodilogy for eatablishing facts
+- 5 rules by which laws of nature will be discovered:
+  1. repeatable experiments
+  2. reductionism
+     - remember Democratus, the guy who came up with the concept of an atom?
+     - take what you have, break it into components until it cannot be reduced further
+  3. objectivity
+     - today, the outcome of science experiments depends on who is funding you
+     - today, it's not objective unfortunately
+  4. public witnessing
+  5. scientific publications
+- till this day, we follow the Baconian system made in the 1600s
+**** Instauratio Magna
+- for the benefit of mankind
+- if we use this methodology, we'll discover everything
+- knowledge = power, that's where this saying comes from
+  - Ipsa scientia potestas est
+- once we discover everything, we should use it for the benefit of mankind
+- is science and technology really used for the benefit of mankind? (something to think about)
+- around this time, Galileo is under house arrest, people are being burned for rejecting Aristotelian logic
+-
+*** Robert Merton
+- Britain
+- protestant country
+- pope of Rome did not have authority over what happens
+- no holy inquisition
+- Puritans supported Bacon's ideas, criticized ancient knowledge
+- Puritans were trying to get rid of Greek ideas from Christianity
+- common goals, kind of. Bacon wanted to get ancient greek ideas out of modern science
+- religion positive impact for once
+- foundation of Royal Society
+*** Royal Society
+missing a system for collecting knowledge
+
+women were kept out, could not become scientists, investors or engineers
+
+not allowed to present in front of the Royal society
+
+1. lowest level: merchants of light
+   - sea captains
+   - people who travel and bring samples of plants, animals, people
+   - ex: James Cook
+   -
+2. Depredators
+   - people who would go to archives around the world, synthesize it, and see if anything is worth investigating further
+3. Mystery Men
+   - people who'd dress up as common workers and try to steal secrets from guilds
+   - didn't work very well
+4. Pioneers or Miners
+   - experiments
+5. Compilers
+   - updated Baconian tables
+   - didn't last, too complex
+6. Benefactors
+   - important
+   - gatekeepers of the system
+   - they decide what gets investigated further, and what isn't
+7. Inoculators
+   - unimportant
+8.  Lamps
+   - unimportant
+9. Interpreters of Nature
+   - Isaac Newton
+   - most power
+   - decide what the final overall laws were
+**** Harrison
+- basically, Harrison (clock guy) could not make it past the Benefactors
+- same thing for most women
+**** other facts
+- purely funded based on Baconian system
+- started by Boyle and Bacon
+- not sponsored by the crown
+- privately funded (unlike Academy of Sciences 1666-France)
+- French academy was like Mouseion from ancient Alexandira
+  + paid for by the crown
+  + governmenr would dictate what science would do
+- scientists could investigate whatever they wanted to
+  + unaffected by government
+**** Middle class
+- basically, spanish lost lots of wars
+- the gold they took from the Aztecs got distributed throughout Europe
+- birth of capitalism
+- new middle class
+- people with money, but no titles like the upper class people
+- one goal: making lots of money
+- people realized that if you hire scientists, inventors, they can come up with new inventions, tools, processes that can make you wealthy
+  - middle class funded Royal Society
+  - protestant religion supported growing wealth
+  - leads to industrial revolution
+**** Kathleen Lonsdale
+- first female admitted to the Royal society
+- 1600- 1945 no women in the Royal society
+** "The holy other" - Isaac Newton and experimental approach
+- hated women
+- thought women were responsible for everything negative
+- 1703 head of Royal society
+- last known words are: "Thank god I'm dying a virgin"
+-
 * From experimentation to utility
 ** Industrial Revolution
 * To Capture a moment
