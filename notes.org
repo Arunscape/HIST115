@@ -627,6 +627,9 @@ Romans have been at it over like 2 years, and Archimedes has a new terror weapon
   + they do research and teaching
 - Alexandrians (Greeks) first modern concept of health
   + first to study anatomy
+  + Herophilus father of anatomy
+    + neuroanatomy
+  + Erasistratus heart is a pump
   + trace nervous system
 **** Library of Alexandria
 - c. 1 million books (original texts)
@@ -853,6 +856,7 @@ Romans have been at it over like 2 years, and Archimedes has a new terror weapon
   + most expensive to produce
 - columns built in sections on a lathe
   + joined together with shaft though center hole
+- Octavian covered Rome with Marble, emporer
 *** Building a building
 - funded by magistrates
 - has to be approved by senate (even an emporer)
@@ -1433,7 +1437,7 @@ if you wanted to publish, you had to go though the Roman Catholic Church
 - first scientist who applied mechanical philosophy in his publications
 - first major scientist who openly opposed Arisotelian logic
 - promoted repeatable experimentation instead
-- supported Copernical helopcentrism
+- supported Copernical heliocentrism
 - rejected Ptolemy's system
 - used new technology: telescope
 - one of first to use the telescope to look at the sky (it was used before to look at ships from the harbour)
@@ -1479,6 +1483,42 @@ if you wanted to publish, you had to go though the Roman Catholic Church
 - shifted the question from why the nature/universe works to how it works
 - because he used mechanical philosophy
 - beginning of modern science - Britain (Protestants)
+
+* MIDTERM I CUTOFF
+- lectures 1-8
+- textbook preface
+- chapters 1-6
+- Oct. 14 2pm-2:35pm
+- 100 multiple choice questions
+- randomly selected from a large question bank
+- 4 choices, abcd
+- only one answer will be correct each time, no select all that apply
+- 70 questions from lectures
+- 30 questions from textbook
+- the question will say whether it's from the textbook or lectures
+- no specifications
+  - e.g. no questions asking the top speed of something
+  - still need to know how things worked
+- 50 "easy" questions mostly from lectures
+- 20 average
+  - mix from lecture and textbook
+- 20 difficult
+  - mostly from textbook
+- 10 very difficult
+  + all from textbook
+- review the syllabus and textbook
+
+** Textbook:
+- major arguments
+- theories
+- events
+- people
+- books
+- places
+- objects
+** Lectures
+- everything except images, dates
+- no dates to memorize
 
 * Age of experimentation
 ** Lack of refrigeration and birth of experimentalism
