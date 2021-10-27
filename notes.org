@@ -1731,10 +1731,132 @@ not allowed to present in front of the Royal society
 - science is a technology:
   - it's a system which leads to the production of scientific theories
 
-** Industrial Revolution
+* Industrial Revolution
 - experimentation with electricity, vaccum, steam leads to the industrial and transportation revolution
 - science funded by middle class
+** Steam Engine
+- heron of alexandria first jet/steam engine
+- ancient china had their own version of a steam engine
+- steam engine not invented during Industrial Revolution
+- not invented to power factories
+- solution for the navy
+- needed trees to build ships
+- used for the masts
+- wood was used as fuel for furnaces to make glass, heating private houses, official buildings..
+- running out of wood to build ships
+- wood banned as a fuel source
+- switch to coal fuel
+- steam engines invented to pump water out of mines so that coal can be mined
+- steam engines happened because of the navy
+-
+*** Thomas Savery
+- 1650-1715
+- first patent for steam engine
+- basically copied design from Edward Marquise of Worcester 1664
+- this design doesn't work for more than 12 metres, useless for mines
+- patented as "Miner's Friend"
+- this is a vaccum pump
+- he became wealthy because of the patent, every steam engine made meant that patent fees had to be paid
+-
+*** Denis Papin
+- 1647-c1712?
+- fleed France as a hooganosdifodifdsfj ?
+- not many resources
+- wasn't really treated well by Royal Society
+- he was French
+- 1690 first piston cylinder steam engine
+- 1681-1708 steamboat
+- this engine is what later powered the Industrial Revolution
+- based on Archimedes fire engine
+- true inventor of steamboat
+- why did he fail?
+  - inaquedate technology (internal approach)
+  - social issues (external approach)
+- liaised with Robert Boyle, Robert Hooke, Thoman Savery, Isaac Newton
+- ended up eventually associated with Royal Society
+- found himself a patron
+- didn't make a full scale steam engine, boat because of his social connections
+- they were built after him
+- Became assistant to Robert Boyle
+  - the Boyle pump was made by Papin
+  - provided Papin with money, and a connection to the Royal Society (Boyle is a founding member)
+  - Robert Hooke curator of experiments
+  - Robert Hooke also hired by Boyle
+  - Hooke and Papin became good friends
+  - after 1703, Boyle, Hooke dead, Newton (Enemy of Hooke), no friends, Papin goes to propose his steam engine
+  - asks for 15 pounds to build the steam boat, presents the models
+  - by supporting Papin, the Royal Society would make Newton unhappy
+  - Newton basically removed Hooke from history
+  - they didn't fund Papin to keep Newton happy, but kept designs
+  - Thomas Savery writes letter to Royal Society
+    - Basically says he's the only guy who knows how steam engines work, Papin's design is a "fraud"
+- Papin's proposal gets rejected, could not get 15 pounds to finish project
+- 1712 homeless
+- Same year that Papin died, Royal Society gave award for inventor of pressure cookier
+- Newcomen announces invention of piston cylinder steam engine (Papin's design)
 
+*** Thoman Newcomen
+- 1663-1729
+- Papin's design piston cylinder steam engine
+- 12rpm, very slow
+- never actually powered by steam, it was vaccum that moved the piston
+- cold water condenses steam, creates partial vaccum
+- top of cylinder open to atmospheric pressure, atmospheric pressure pushes the piston down
+- 1763 breaks at Glasgow University
+  - James Watt told to fix it via letter
+*** James Watt
+- 1736-1819
+- scottish instrument maker
+  - precise measurements
+- mostly failed
+- noticed loss of heat, not very efficient
+- condensation directly in cylinder
+- 1765 moved condenser outside (external condenser)
+- made it more efficient
+- replaced atmospheric pressure with steam pressure
+- double acting piston
+- still powered by vaccum, the steam only did like 3psi of pressure
+*** Mathhew Boulton
+- 1728-1809
+- realized there's money to be made from this invention
+- Watt's shop-iron ornaments
+- had wealth
+- got a separate patent for James Watt's steam engine
+- 1774 first factory to mass produce James Watt's steam engines
+  - Soho Engine Factory
+- Lunar Society
+  + check textbook TODO
+- Boulton used to supply iron ornaments to James Watt
+**** Soho Engine Factory
+- problem: not enough precision in metallurgy to make large scale production of large steam engines possible
+- cylinders would not precicely match pistons
+- needed a way to bore cylinders instead of casting them
+- invention from Ancient China:
+  - the cannon
+  - cannons were killing own troops instead of enemies
+  - casts would crack, be imperfect
+  - French/British military needed a way to mass produce barrels for cannons
+*** John Wilkinson
+- 1728-1808
+- not nice
+- obsession with standardization, precision
+- cannon boring machine - 1774
+- exactly what James Watt engine needed
+*** Crank/Flywheel
+- 1781
+- James Watt introduced new engine
+- forced by investors to change initial engine
+- change up and down motion to rotary motion
+- already invented and patented by James Pickard
+- modified design by adding gear wheels, got different patent
+- can
+
+** Factory system
+** Technology on display
+- Crystal Palace and the great exhibition of 1851
+* To Capture a moment
+* Transportation Revolution
+** GLobalization
 * MIDTERM 2 CUTOFF
 - open book essay
 - no questions from textbook
@@ -1790,11 +1912,6 @@ not allowed to present in front of the Royal society
     - you won't answer the question until waaaay later
   - answer the question in the first sentence
   -
-* From experimentation to utility
-** Industrial Revolution
-* To Capture a moment
-* Transportation Revolution
-** GLobalization
 * Dream of flight
 * Technoscience and Warfare
 * Modern Technologies and You
