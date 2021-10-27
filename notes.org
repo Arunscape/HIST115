@@ -1662,13 +1662,79 @@ not allowed to present in front of the Royal society
   - leads to industrial revolution
 **** Kathleen Lonsdale
 - first female admitted to the Royal society
-- 1600- 1945 no women in the Royal society
+- 1600-1945 no women in the Royal society
 ** "The holy other" - Isaac Newton and experimental approach
 - hated women
 - thought women were responsible for everything negative
 - 1703 head of Royal society
 - last known words are: "Thank god I'm dying a virgin"
+- 1665 plague-university closed
+  - Newton goes home
+- locked himself in attic, "invents" calculus and laws of gravity and motion
+- he did not publish, why?
+  + because of alchemy
+  + Richard Westfall describes him as "The holy other'
+  + inborn genius
+  + he was an alchemist, worked in secrecy
+- Betty Dobbs
+  - grad school
+  - nobody treated her well, probably because she was an older student and female
+  - worked in secrecy, based work on Isaac Newton's manuscripts
+  - he wrote way more crap about alchemy than the science stuff he is known for
+  - Isaac Newton is one of the last great alchemists.
+  - he believed in alchemy
+  - gatekeepers of system did not allow her to publish, go to conference until 1980s
+  - invented his own religion with him as the only follower
+  - elixir of life (mercury)
+    - it of course killed him
+    - before you die of mercury poisoning, the first sign is you become paranoid
+    - didn't want people to steal his ideas
+
+**** 1666 anno mirabilis
+- year of miracles
 -
+** Robert Hooke
+- part of Royal Society
+- Newton's papers got published because of him
+- 1679 goes to Isaac Newton, and asks what he's working on
+  - Newton is in full paranoia mode now
+  - asks Newton how planets move, that's what the royal society is currently struggling with
+  - Planets move in elliptical orbits
+  - Gravity
+  - cannot find notes in his attic from 1666 because he hid it so well
+  - had to redo notes from scratch after being cornered by Royal Society
+*** 1687 Principia Mathematica
+  - kind of atrocious to read
+  - changed British society
+  - different notion of poverty and wealth
+  - Protestant faith: if you are a good Christian, you will be rewarded with health, wealth, friends
+  - if you or your parents did something bad, you will be punished
+  - poverty is a big indicator according to this faith, and you deserved it
+  - Newtonian laws:
+    + universal, same for all
+    + social changes - everyone is equal (slowly changed)
+*** Reflective telescope
+- 1690 Newton vs Robert Hooke
+- Hooke presents the reflective telescope he made
+- Newton happens to be there, he shouts that Hooke stole the idea from him
+- "I will never publish again until Hooke dies"
+- Hooke dies
+**** Optics 1704
+- behaviour of light
+- light is a matter (composed of small particles)
+- followed all the rules of Francis Bacon in this book
+- modern scientific method
+- established the Baconian system as science
+- English became the language of science
+- 1704 birth of modern science
+- science :: a standardized method/system for obtaining facts/knowledge
+- science is a technology:
+  - it's a system which leads to the production of scientific theories
+
+** Industrial Revolution
+- experimentation with electricity, vaccum, steam leads to the industrial and transportation revolution
+- science funded by middle class
+
 * MIDTERM 2 CUTOFF
 - open book essay
 - no questions from textbook
