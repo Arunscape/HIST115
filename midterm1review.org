@@ -1,0 +1,70 @@
+#+TITLE: Midterm1review
+
+* MIDTERM I
+- lectures 1-8
+- textbook preface
+- chapters 1-6
+- Oct. 14 2pm-2:35pm
+- 100 multiple choice questions
+- randomly selected from a large question bank
+- 4 choices, abcd
+- only one answer will be correct each time, no select all that apply
+- 70 questions from lectures
+- 30 questions from textbook
+- the question will say whether it's from the textbook or lectures
+- no specifications
+  - e.g. no questions asking the top speed of something
+  - still need to know how things worked
+- 50 "easy" questions mostly from lectures
+- 20 average
+  - mix from lecture and textbook
+- 20 difficult
+  - mostly from textbook
+- 10 very difficult
+  + all from textbook
+- review the syllabus and textbook
+
+** Textbook:
+- major arguments
+- theories
+- events
+- people
+- books
+- places
+- objects
+** Lectures
+- everything except images, dates
+- no dates to memorize
+* Preface
+- technology :: the system by which we attempt to solve real-world problems
+  + a system that leads to the creation of objects of a pre-determined pattern
+  + e.g. light bulb, schools, governments, language
+* Intro: Thinking about technology
+** Progressivism and Presentism
+- progressivism :: there is a kind of arrow of development from primitive to highly developed
+- presentism :: the past existed only to produce us in the present
+  + past can be judged by the standards and knowledge of the present
+- these concepts are mostly rejected by historians
+** Unidirectional model of technological determinism
+- unidirectional model of technological determinism ::
+- interactive view :: the opposite, the only way to exploit the environment is to use technology
+  + tension between need to use technology and social rules
+** Conditions for periods of high rates of innovation
+1. competition
+   - marketplace of ideas
+   - common cultural context
+2. cultural attitude favorable to novelty
+   - facination with new things
+3. social flexibility
+   - people are not prevented from innovating just because of their class
+   - people who come up with ideas can directly benefit from their work
+   -
+* 4 Chinese Technology
+1. tools, devices, technology developed in China were for agriculture, and could support many non-agricultural workers
+2. Innovation and a bureucracy that is reliable and well educated reinforces each other.
+3. lack of competitive pressure reduces the need to innovate
+4. too much competition (war, civil unrest) also suppresses innovation, since resources are redirected to the defense of the state
+5. insisible technology: the civil service exam, mass bureucracy
+* Islam
+- unified language
+- people encouraged to read the Qur'an, led to more people being able to read compared to other places at the time

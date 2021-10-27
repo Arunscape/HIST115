@@ -226,7 +226,7 @@ Probably not.
 - preoccupied with afterlife
   + engineering scemes just produced gigantic tombs
 - could have done so much more with the resources spent
-- borrowd most technology from Sumerians
+- borrowed most technology from Sumerians
 - didn't really do scientific investigation
 - good observation though
 - not as influential, because of religion
@@ -455,7 +455,7 @@ Greeks are different because in their world, they interacted with gods
    - student of plato
    - most influential
    - proved Earth is a sphere
-     + lunar eclipse earch cast a circular shadow
+     + lunar eclipse earth cast a circular shadow
    - thought Earth was at the center of the universe
    - introduced physics
      + concept of resistance
@@ -859,9 +859,9 @@ Romans have been at it over like 2 years, and Archimedes has a new terror weapon
 - Octavian covered Rome with Marble, emporer
 *** Building a building
 - funded by magistrates
-- has to be approved by senate (even an emporer)
-- building is a provilege
-- if you're not an emporer, you couldn't build a private house or villa
+- has to be approved by senate (even an emperor)
+- building is a privilege
+- if you're not an emperor, you couldn't build a private house or villa
   + can build temple
   + theatre
   + library
@@ -1384,7 +1384,7 @@ Stinking Venus
 - they were doing it long before scientists called it science
 - often, new process, technology, innovation would come from the working class
 - e.g. John Harrison (the clock guy)
-***** Harold Innis: Empure and Communications
+***** Harold Innis: Empire and Communications
 - external approach
 - scientific revolution happened because of free access to knowledge/communication
 - i.e. modern science happened because of Gutenberg's press
@@ -1669,6 +1669,61 @@ not allowed to present in front of the Royal society
 - 1703 head of Royal society
 - last known words are: "Thank god I'm dying a virgin"
 -
+* MIDTERM 2 CUTOFF
+- open book essay
+- no questions from textbook
+- no choice of question
+  - everyone writes on same topic
+- lectures 1-12
+- 2 hours
+- 2 pages gets you a D, max is 4 pages
+- no footnotes/endnotes/quotes
+  - paraphrase using your own words
+- no external information
+- no title page, no title
+- less than 5 minutes late is ok
+- past tense
+- third person
+- questions that ask you to state and defend your opinion by providing relevant examples from the lectures
+
+   examples:  notice how you need to cover content in all the lectures
+  1. Do you agree or disagree that external factors (such as: religion, economy, government, social beliefs etc.), had significant (positive or negative) impact on scientific and technological change? Please support your argument with examples from the lectures. Make sure to structure your essay chronologically (where applicable), that is, start with the earliest examples and proceed to the newest.
+  2. Do you agree, or disagree that internal/internalistic approach is the best method for studying our relationship between science, technology and society? Based on the information provided in class support your argument with all necessary theories/arguments/details/dates/events/names etc.
+     - Kuhn, Merton
+  3. Was Robert Merton correct in postulating that religion had siginificant impact on scientific and technological change? Support your argument with examples from the lectures. Make sure to structure your essay chronologically, that is, start with the earliest examples and proceed to the newest.
+     - sumerians -> industrial revolution
+
+- you can look at your notes
+- make a point form outline of a paper than you can then expand to a full paper
+  - major themes, major ideas
+  - I think he's hinting that the sample topics above will help
+- he'll be looking for:
+  - did you answer the question, how well
+  - what examples did you choose/not choose
+  - did you understand the material
+  - clarity of presentation/style, composition/structure
+  - use of proper English, spelling, grammar
+  - overall quality compared to other essays
+- How to write good essay
+  - introduction is important
+  - a paragraph is no more than half a page
+  - Structure:
+    1. introduction
+       - state your opinion
+       - answer the question
+       - one paragraph
+    2. body
+       - new paragraph for new idea
+       - dates/names
+       - supporting arguments
+    3. conclusion
+       - restate the question/argument made in the question and synthesize your answer to the question asked
+  - use reverse funnel format
+  - don't ramble in the beginning
+  - don't start with the sentence: throughout history....
+    - you won't answer the question until waaaay later
+  - answer the question in the first sentence
+  -
 * From experimentation to utility
 ** Industrial Revolution
 * To Capture a moment
