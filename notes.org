@@ -1967,10 +1967,132 @@ not allowed to present in front of the Royal society
 - you pay monthly installments and eventually own it
 
 * To Capture a moment
-**** Photography
+*** Photography
 - women were successful independent photographers
+*** Development of photography industrial process
+**** Joseph Niepce
+- french inventor
+- how to reuse byproducts of industrialization
+- bitumen
+- byproduct of mining industry and industrialization
+- mix it with turpentine, you get a black paint that is photosensitive
+  - expose it to light, it turns white
+  - "Heliography"
+- basically invented photography
+- 1826 tin plate, cover with bitumen
+- camera already invented by now
+- left the tin plate in camera obscura ~18 minutes
+- took a photo for the first time
+- travelled to London -> Royal Society
+- Like Harrison's story, they kind of took his designs and then ignored him
+- did not get credit for his invention
+- process not duplicable
+- could only take one photo
+- world's first photo 1826 View from the window at Le Gras
+**** Louise Daguerre
+- partner with Niepce
+- made replicas of paintings
+- Boulevard du Temple - not duplicable, same process as Niepce
+-
+
+**** Expression of inner character
+- photos are expensive
+- each photo had a purpose
+- photographer's job is to show who you are, what are your feelings at the moment, what your profession is
+**** Charles Baudelaire
+- hated photography
+- photography is not art
+-
+**** Countess Castiglione
+- picture says I'm watching you
+  [[https://upload.wikimedia.org/wikipedia/commons/a/a7/Pierson_castiglione.jpg]]
+**** Frederick Scott Archer
+- sculptor
+- Exhibition of 1851 new technology introduced
+- collodian process invented
+- collodian gun cotton + nitric acid + sulfuric acid
+- "ready to use" glass plates, mass produced
+  - pre-manufactured, you just have to load into camera
+  - no need to cut tin, mix chemicals, apply it, etc
+- industrial process, *duplicable* photos
+- collodion-negative
+- albumen-positive
+  - this is what gets printed
+- allows you to mass produce copies of the same photograph
+- excellent tonal range
+- collodian is light sensitive
+- able to take photos underground
+- another inventor who didn't get credit for his invention
+- didn't get a patent, died in poverty
+-
+**** Andre Disderi
+- first mass produced photograph
+- used Archer's technology
+- Certe-de-visite
+- albumen print
+- most popular
+- produced in the millions
+-
+*** Cameras
+- the camera was made before photos
+**** Camera obscura
+- basically a projector
+- wooden box, lens, reflecting mirror
+- artists used these to make their paintings
+- project the image on the canvas, then fill the gaps
+**** Collodian dry plate cameras
+- outdoor photography
+**** George Eastman
+- roll-film camera
+- can take multiple photos from one camera
+***** Kodak
+[[https://upload.wikimedia.org/wikipedia/commons/3/3a/One_Kodak_Camera.jpg]]
+- cheap, mass produced
+- point and shoot
+- almost anybody could afford it
+- cartridge
+- came pre-loaded with a catridge that lets you take 100 photos
+- send complete box back to Kodak factory
+- then they send your prints + camera with new cartridge back
+- remove photographer from process of photography
+- you didn't have to know anything about photography, chemicals, etc
+- women could use this camera independently
+
+**** 35mm film cameras
+- c1914-2008
+***** Leica
+- considered best camera ever
+**** Micro dot
+- "spy camera"
+- shrink a letter to a dot size
+- send spy letter
+- expand micro dot to reveal letter
+-
+**** Kodak digital camera
+- magnetic tapes
+- DCS sensor converted light to digital picture
+- expensive, bulky, prototype
+**** Nikon F3
+- first digital camera
+- user Kodak DCS sensor
+-
+**** Apple Quick Take
+- first mass produced digital camera
+- Kodak sensor
+- failed miserably
+-
+**** Kodak DC 40
+- first mass produced successful digital camera
+- still expensive
+-
+**** Joseph Niepce
+- old trunk with Royal Society seals
+- world's first photo
+***** View from the Window at Le Gras
+**** Photography product of Industrial Revolution
+
 * Transportation Revolution
-** GLobalization
+** Globalization
 * MIDTERM 2 CUTOFF
 - open book essay
 - no questions from textbook
