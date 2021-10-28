@@ -2092,7 +2092,125 @@ not allowed to present in front of the Royal society
 **** Photography product of Industrial Revolution
 
 * Transportation Revolution
-** Globalization
+- came out of industrial revolution
+** Steamships
+- solution to cross current, counter current, and wind
+- how to bring large ships, and warships into harbours?
+- can't sail into a harbour
+- large ships had to be towed in/out
+- initial ones were tugboats to bring the larger ships with sails in/out of the harbours
+- first proposed by Denis Papin 1681, 1708
+-
+*** Pyroscaphe Jouffroy
+- 1783
+- can go against the current
+- machinery can conquer the forces of nature
+- before, we used technology to cope with nature
+- now we can overcome the forces of nature
+-
+*** Rob Roy
+**** David Napier
+- 1790-1869 Scotland
+- other steamboats were not really commercially successful
+- Rob Roy was successful
+- it could travel between Scotland and Ireland within a predictable amount of time
+- distance between Ireland and Scotland is tiny
+- regular sea service
+- sometimes it would take 3 weeks of sailing
+- loss of life in shipping in winter/fall season
+  - strong winds/currents/waves
+- carry mail
+- made lots of money
+- faster communication
+*** Isambard Kingdom Brunel
+- civil engineer
+- 1806-1859
+- transportation revolution
+- trains
+- steamships
+- bridges
+- designed locomotives/station/lamp/clock/benches for the trains
+- large bridges thought to be impossible
+- some still stand today
+- cellular construction
+- started globalization
+-
+**** Great Western Railway Company
+- 1835 board meeting
+- concerns -- length of line
+- train is over budget, tunnels through mountains when there is a shorter path
+- proposes steamboat travel to ferry passengers from Britain to New York
+- world's first transatlantic steam ship
+- The Great Western
+- 1838 to New York in 15 days
+- era of transatlantic travel
+- invention of water purifiers for steam engine
+- get rid of salt for boiler
+- made long distance travel by steam ships possible
+***** Great Britain
+- built out of iron
+- first ocean vessel made out of metal
+- propeller
+- older boats used side wheels, not viable for waves
+- with the propeller below the water surface, this is no longer a problem
+**** Great Eastern
+- revolutionary design
+- 4000-15000 passengers
+- Titanic was 2200 passengers
+- steam engines were the largest ever built, 4 storeys
+- no harbours could accomodate it
+- globalization
+- New York in 9 days
+
+** High pressure steam engine
+*** Richard Trevithick
+- 1771-1833
+- 1799 new high pressure steam engine
+- expandable horse power -- increase hp by adding more steam into the engine
+- died in poverty
+**** Puffing Devil
+- small, light, powerful engine
+- full size road vehicle
+- first successful road vehicle
+**** Penydarren locomotive
+- 1804 10 years before Stephenson
+- locomotives can haul coal out of mines
+- rails already there for wagons
+- animals would haul the wagons
+- replaced horse with a machine
+-
+**** Catch Me Who Can
+- 1808
+- instead of going to the royal society, he directly showed it to the public
+- built a railroad track to attract investors
+- outran horse 20km/h
+- first purpose built railroad track
+- investors not really interested
+**** Trevithick-Cornish boiler
+- water boiling external, loss of heat
+- fire now inside of boiler
+- hot exhaust also heats up water
+- large scale steam engines comes from this
+**** James Watt
+- basically made sure that the high pressure steam engines would not be used on a commercial scale
+- discredited work of Trevithick
+- "Trevithick and others who are experimentin, as well as working, with steam of high pressure deserved hanging for their diabolical inventions"
+- travelled to places that already purchased Trevithick's engines and tried to discredit it (said it would blow up)
+- went to British Parliament and demanded special laws against high pressure steam engines
+- actually slowed down industrial revolution and transportation revolution
+- "the prejudice of Watt hung over the engineering world as a cloud which obscured the clear light of science..." - 1890
+- his factories didn't switch to high pressure engines until after he died
+- opposed change
+-
+** Railroads - social and biological change
+- wealthy could travel fast, while poor had to walk and be slow
+- with trains, for the first time, poor and wealthy travel at the same speed
+- before trains, you'd be born, and marry within the same general area
+- now with travel, there is a larger gene pool
+- trains modified us genetically
+
+** Internal combustion engine
+
 * MIDTERM 2 CUTOFF
 - open book essay
 - no questions from textbook
