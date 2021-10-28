@@ -2210,6 +2210,50 @@ not allowed to present in front of the Royal society
 - trains modified us genetically
 
 ** Internal combustion engine
+*** Joseph Lenoir
+- 1822-1900
+- French scientist inventor
+- 1859 new stationary engine to replace steam engine
+- initially designed to power factories
+*** Nikolaus Otto
+- 1832-1891
+- travelling salesman/nobody
+- 1861 wanted to modify Lenoir's engine to get around patents
+  - hired 2 assistants
+- 4 stroke stationary
+- fired 2 assistants when he got the patent
+
+*** Karl Benz
+- 1844-1929
+- 1885 automobile fueled by gas
+-
+**** Benz Motorwagon
+- first commercially available car
+- not really successful
+- steering was not sufficient
+- pretty much all of them crashed
+- patent for car fuelled by gas owned by Benz
+*** Otto's Assistants: Gottlieb Wilhelm Daimler & Wilhelm Maybach
+**** Daimler Co.
+- 1885 modern gasoline engine
+- installed into wooden frame
+- invented the motorcycle
+- 1886, 1 year after Benz
+- brakes, transmission, steering wheel, smaller more powerful engine
+- 1894 Pheonix engine
+- first successful multicylinder engine (4 cylinders)
+- lightest, most powerful engine
+- many modern cars today have 4 cylinders
+- 1900 racecar for Emil Jellinek
+- Mercedes Jellinek
+- that's how Mercedes Benz came about
+- had headlights, better carburetor, electric spark, electrical ignition
+- carburetor based on Heron of Alexandria's atomizer spray design
+- fastest car at the time, legendary
+- internal combustion enginer -- part of the puzzle to make flight possible
+
+*** Harley Davidson
+*** The Indian
 
 * MIDTERM 2 CUTOFF
 - open book essay
