@@ -2515,6 +2515,146 @@ not allowed to present in front of the Royal society
 **** Concord
 - cross Atlantic in 3 hours
 * Technoscience and Warfare
+- from planet Dora to the moon
+  - planet dora is a Nazi concentration camp that made rocket parts
+- Wright model B in 1915
+  - basically WW1 planes up to 1918 based on this
+- only 30 years later, first photograph of Earth taken from space (German rocket)
+** Why Germany?
+- Germans first to use technoscience on massive scale
+- "big science"
+- integration of science, technology, government, universities, private companies
+  - all these come together to work on one project
+- in 5 years, pretty much got all modern technology
+-
+*** Atomic energy
+- atomic bomb by splitting atom
+- jewish scientists who escaped to us
+- started Manhattan project because they thought Germany had atomic bombs
+- Uranium for the Hiroshima and Nagasaki bomb came from Germany
+- Hitler basically said no to building atomic bombs because it was a "Jewish science"
+- lucky for us maybe, the war would have turned out different otherwise
+-
+*** Modern computers
+- Z3
+  + memory of 60 words
+- Z4
+  + first commercial computer
+- there are still some secret computers in Germany to this day that were never declassified, or just disappeared
+-
+*** Television
+- not invented in Germany but first to use it for standard broadcasting
+- first TV stations to broadcast to the public
+*** Radio controlled devices
+- rocketry
+- aircraft
+- tanks
+- remote control rocket with joystick like in video games
+-
+*** Magnetophon K1
+- can record voice without distortion
+- magnetic tape
+-
+*** Guided missiles
+- other countries experimented but Germans were first to get it right
+- V1 not a rocket
+- powered by jet engine
+- cannot take off on its own
+- cheap to produce
+-
+*** Modern design
+- cars
+- volkswagen beetle
+  - was basically built for Hitler
+- houses
+- furniture
+- buildings
+-
+*** Fundamental shift
+**** Technology
+- cope with environment/ solve problems
+**** Technoscience
+- destroy/ control
+- example: NASA has a big military aspect to it
+- nowadays more about making money
+*** Fritz Haber
+- "Dr. Death"
+- German/Jewish chemist
+- fertilizers
+- poison gasses
+- explosives
+- "father of technoscience"
+- Zyclon B (concentration camp gas)
+- believed that killing lots of people was a good thing as long as they are not German
+  - ironic because he was Jewish
+- enjoyed killing people
+- no moral or ethical aspect to the way he did science
+- introduced gas warfare
+- received Nobel prize
+- made it possible for us to grow enough food to survive because of fertilizers
+- removed from research because he was Jewish
+- his family suffered the consequences of his research
+- son committed suicide
+- wife was the first chemist to receive a PhD in chemistry in Germany
+  + also committed suicide
+-
+*** Kaiser Wilhelm Institute
+- first institution to use technoscience
+*** Capitalism
+- strong win, weak lose
+-
+*** Social Darwinism
+- biological theory to social/racial theory
+- weak to be elimminated
+  - one step further than capitalism, where the weak fail
+*** Eugenics
+- started in United States, Britain
+- Germany was a bit late to it
+- applied technoscience to eugenics
+- concentration caps - eliminating those believed to be unwanted
+- determined by *Craniometry* and IQ tests
+  + measure size of skull
+  + we still use IQ tests today :/
+  + idea is that intellect is inborn and not learned
+*** Warfare
+- Warsaw/Poland test ground for German approach
+- theory was that it is cheaper to kill civilians than fight armies
+- used by other armies like the Japanese
+- Germans applied for the first time technoscience to the mass murder of civilians
+-
+**** Human cost
+- about 1.3 million in Warsaw, numbers went down to 100
+- number of civilians murdered in Warsaw more than the
+*** Concentration Camps
+- the ones in Poland were almost entirely extermination camps
+- other camps across Europe were forced labour and other stuff
+- Germans applied factory system of mass murder and human disassembly
+  + recycle suitcases
+  + human hair
+  + soap made from human flesh
+  + furniture from human skin and bones
+  + human disassembly line
+  + concentration on women, elderly, children
+    + because children could grow up and rebel
+    + women can give birth to people who would grow up and rebel
+  + once you remove humanity
+    - 'scientific' experiments on children made possible
+    - horrific experiments on children and pregnant women
+    - American government knew about Holocaust
+      - Polish resistance managed to smuggle cameras and sent horrific pictures with description
+      - smuggled and presented to the United States president
+      - refused to stop Germany because they calculated that it was too expensive
+      - Britain, France returned Jewish refugees
+      - American companies supplied materials, products to Germany
+        - IBM machines, gasoline, etc
+      - Swiss banks had a lot of Jewish gold deposited
+      - Germans were able to get away with it because it was good for business
+      - no one really did anything about it even though they knew what was going on
+  + technoscience produced a lot of technologies we use today
+
+** Secret weapons
+** Race to oblivion
+
 * Modern Technologies and You
 ** genetics
 ** artificial intelligence
