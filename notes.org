@@ -2650,10 +2650,183 @@ not allowed to present in front of the Royal society
       - Swiss banks had a lot of Jewish gold deposited
       - Germans were able to get away with it because it was good for business
       - no one really did anything about it even though they knew what was going on
-  + technoscience produced a lot of technologies we use today
+  + technoscience safe in earce produced a lot of technologies we use today
 
 ** Secret weapons
+*** Tanks
+- partially the reason why the Nazis lost the war
+- Hitler was obsessed with tanks, so less resources were put into war planes
+- believed that war could be won with bigger and bigger tanks
+-
+**** Tiger 1
+- American tanks were not great
+- overengineered
+- heavy, used too much fuel
+- was originally supposed to be a medium sized tank
+- first 6 tigers sunk in a swamp because he wasn't that smart
+-
+**** Mouse Porsche
+- largest tank
+- 190 tons - hybrid
+- yeah, that car company
+- Hitler not satisfied, he wanted bigger
+- so heavy that an aircraft engine wasn't powerful enough
+- electrical engine powered by gas engine
+- designed to travel river banks like a submarine
+  - sank because it was so damn heavy
+-
+**** Super tank 'Rat'
+- designed by Hitler
+- 1000 tonnes
+- mouse looks like a small mouse in comparison lol
+- never finished
+- tanks won the first world war, but times changed
+-
+**** Heinz Guderian
+- Blitzkrieg
+- instant "lightning" war
+- use tanks to move infantry to overwhelm the enemy quickly
+-
+**** Motorcycles
+- BMW (yeah, that car company), Audi, etc made motorcycles
+- built for killing people, not just for commuting
+- big sidecar
+- 3 guns, designed to carry 3 people
+- bike can travel underwater, or in deep snow because air intake and exhaust was above the water/snow level
+-
+*** Aircraft
+- problem with blades in jet engine
+- metallurgy not there to make blades durable enough
+- rapid acceleration disintegrate blades
+- invented new method of propulsion (rocketry)
+*** Rocketry
+- max speed increased from 800km/h to 1000+km/h to speed of sound and beyond
+**** Me 163
+- rocket fighter
+- first mass produced rocket fighter
+- Britain saw it as the end game of aircraft
+- basically a flying bomb
+- set the world speed record
+- some problems:
+  + T-Stoff and C-Stoff fuel
+  + really unstable
+  + fuel surrounds pilot
+  + more German pilots died than allies got killed
+  + too fast
+  + unpredictable, hard to control
+**** Ju 287
+- jet bomber
+- 4 jet engines, 4 rocket engines
+- wings look backwards (reverse swept)
+-
+**** VTOL
+- vertical takeoff
+-
+***** Ba 349
+- no airfield  required
+- speed of sound, first to break sound barrier
+- engineering flaw: so much acceleration that the pilot was basically killed (broken neck) on takeoff
+-
+**** Flying Saucers
+- Germans experimented with small flying saucers
+- engines with directional nozzles
+- most of blueprints destroyed
+- problems with how to keep them stable, going horizontally
+***** Avrocar
+- Canada
+**** Silver Bird
+- space shuttle
+- go into orbit, then come down on American cities equipped with bomb
+- never finished, war ended before it could be finished
+- NASA - switch to reusable space shuttles instead of rockets
+- modern technologies today come from 1930s-1940s Germany
+- transfer of technology from Germany to USA, Britain, Soviets...
+**** F-86
+- built in complete secrecy
+- most advanced jet built by USA (or so they thought)
+- both USA and soviets shocked each other because the planes looked almost identical
+- both built from same blueprints from German plane
+- same thing happened with rocketry and missiles
+***** Soviets built Mig-15
+- also in secrecy
+
 ** Race to oblivion
+*** Hermann Oberth
+- PhD thesis "By Rocket into Planetary Space"
+-
+*** Wernher von Braun
+- Nazi scientist/engineer
+- designed 12 large rockets for hitler
+- A10 - Intercontinental ballistic missile
+- luckily the allies destroyed the prototype of the A10 rocket
+- also Hitler was obsessed with destroying London instead of American cities
+- A12 - Basically the Saturn moon rocket
+- Hitler saw no value in rockets, not interested in going to the moon
+- A4 - First man made object in space (A4 aka V2)
+-
+**** A4 / V2
+- unstoppable
+- 4 times speed of sound
+- could not be intercepted or detected
+- enough TNT to wipe out a city
+- onboard computer and guidance system
+- gyroscope + computer adjusts fins to steer rocket precisely to its target
+- A4 went to space, but not capable of orbit
+***** Human cost of technological progress
+- each V2 rocket claimed 6 lives just to make it
+- workers basically paid to die
+****** Mittelwerk factory
+- described as Aladdin's cave
+- technological marvel
+- bunch of secret weaponry found intact
+- largest underground factory
+**** Pushbutton remote
+- warfare reality
+- atomic bomb like any other bomb, you have to drop it
+- missiles changed things because you just need to push a button and the guidance system will steer itself to the target
+-
+**** Dora concentration camp
+- supplied labour for Mittelwerk
+- most horrific pictures come from this one
+- von Braun was an SS officer
+  - SS is elite personal army of Hitler
+  - swore oath of alliegance directly to Hitler
+  - really nasty people
+  - fanatics, obsessed with killing
+  - most brutal branch of military
+- seen many times going to Auschwitz selecting workers for Mittelwerk
+- when von Broun was confronted
+  - "Science does not have a moral dimension... once the rockets are up who cares where they come down that is not my department"
+  - he denied any involvement with SS or concentration camps
+  - not until 2020s do we find evidence, hidden/destroyed by US
+  - Americans supported him
+    - colleagues removed any social responsibility from their work
+    - brought him to the states, made him a professor
+    - big salary, house, other nice things
+    - in contrast, scientists captured by Soviets were put in prisons and their families too
+    -
+**** Vostok
+- Soviets first to build space rocket
+- USSR captured V2 and scientists
+- start of space race
+- R7 carried Sputnik
+  - nuclear ballistic missiles
+  - significance is that anyone could do pushbutton
+- world's first artificial satellite
+**** NASA
+- Von Braun becomes the director
+- Soviets winning space race
+  - first astronaut in space
+  - first woman in space
+  - first manmade object to moon
+  - first to reach another planet (Venus)
+  - first to orbit moon and return to earth
+- 1969 First man to moon, Neil Armstrong
+  + Von Braun's A12 basically
+- technology formed into a bunch of nuclear ballistic missiles
+  - even though there were nice things like man's dream of reaching the moon
+- 2-way relationship between science and technology
+
 
 * Modern Technologies and You
 ** genetics
