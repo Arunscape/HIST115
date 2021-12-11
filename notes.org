@@ -2158,7 +2158,7 @@ not allowed to present in front of the Royal society
 - 4000-15000 passengers
 - Titanic was 2200 passengers
 - steam engines were the largest ever built, 4 storeys
-- no harbours could accomodate it
+- no harbours could accommodate it
 - globalization
 - New York in 9 days
 
@@ -2225,7 +2225,7 @@ not allowed to present in front of the Royal society
 
 *** Karl Benz
 - 1844-1929
-- 1885 automobile fueled by gas
+- 1885 automobile fuelled by gas
 -
 **** Benz Motorwagon
 - first commercially available car
@@ -2250,7 +2250,7 @@ not allowed to present in front of the Royal society
 - had headlights, better carburetor, electric spark, electrical ignition
 - carburetor based on Heron of Alexandria's atomizer spray design
 - fastest car at the time, legendary
-- internal combustion enginer -- part of the puzzle to make flight possible
+- internal combustion engine -- part of the puzzle to make flight possible
 
 *** Harley Davidson
 *** The Indian
@@ -2311,7 +2311,222 @@ not allowed to present in front of the Royal society
   - answer the question in the first sentence
   -
 * Dream of flight
+** Early flight
+*** First person to fly
+- ancient Chinese
+- Yuan Huangtou
+  - first to survive
+- attach prisoners to kites and stuff and watch people fall to their death
+- military used aircraft to scout enemies in warfare
+*** Henri Giffard
+- french scientist
+- first powered/controlled flights
+- long distance (over 20km), passengers
+-
+*** Clement Ader
+- french engineer
+- monoplane flights
+- engine/propeller
+- works on own power
+- heavier than air
+- can take off from own power
+-
+*** David Schwarz
+- Croatia
+- internal combustion engine/gasoline (Daimler)
+- metal construction
+- dies in crash
+- his widow sells designs to Zeppelin
+*** Count Ferdinand Adolf August Henrich Graf von Zeppelin
+- one of the worst technologies
+- hydrogen/silver paint
+- zeppelins keeps crashing and burning
+- supported by government when ran out of money
+- advertized for Nazi party
+- zeppelins powered by hydrogen which is explosive
+- also painted with cellulose nitrate plus powdered aluminum
+- this is basically rocket fuel
+- proved that the future of aviation was airplanes
+*** Wright Brothers
+- WIlbur Wright
+- Orville Wright
+- put together innovations that were already there
+- glider + internal combustion engine
+- did not invent anything, just put together existing things
+- bicycle producers
+- did a lot of experiments, scientific approach to flight unlike others at the time
+- wind tunnel
+- 3 innovations
+
+  1. Longer narrower wings
+     - slightly curved
+  2. better lift at lower speeds
+  3. modern propeller
+- the airplane was actually catapulted into the air
+- no one really cared about the Wright brothers airplane
+- they built the machine because they wanted to sell the aircraft to the military
+- people worked on flying because they wanted it for military purposes, to kill enemies
+- United states government not interested
+- they go to France and become famous
+- then they come back to the United states, and the army buys the first war plane
+- lots of people suing Wright brothers
+- could not really improve on designs
+- after WW1 obsolete
+*** Charles Taylor
+- made the engine, propeller for Wright brothers
+*** Maria Sklodowska-Curie
+- turning point for women
+- women engaged in science, technology, engineering
+- nobel prize 1903 physics
+*** Henri Coanda
+- Romanian scientist
+- motor jet
+  - useful but not super powerful
+  - still Daimler design
+  - turbine instead of propeller which made it more powerful
+- Nazis heavily relied on his designs (example: flying saucers)
+- not successful
+- took it to France like the Wright brothers
+- aircraft caught on fire and burned
+*** World War 1
+- airplanes are slow
+
+**** Fokker
+- Nazi Germany
+- instead of firing guns into propellor
+- synchronized machine gun that would not fire into your own propeller
+- fast airplanes, from 40km/h to 200km/h
+- mass production
+*** Curtiss JN-4 Jenny
+- beginning of civil/commercial aviation
+- cost as much as a motorcycle
+- american aircraft, canadian version is canuck
+- first one available in large numbers and cheap
+- first company to build custom aircraft for women
+-
+*** Katherine Stinson
+- one of first female pilots to recieve license from Wright brothers
+- obsolete control system built in her airplane because trained by Wright brothers
+- first to do loop de loop
+- first air mail in Alberta
+- flight to Edmonton
+- women not allowed to fly in combat
+- raised money for red cross
+-
+
+*** World War 2
+- not just about killing armies
+- also attacking civilians
+- biggest breakthroughs in technology
+- going in, primitive propeller aircraft
+- coming out, technology to go to space
+- women allowed to work in places normally restricted to men like the aviation industry
+- no one left to work in factories when men went to war
+- still could not fly aircraft in combat
+- could do experimental aircraft, or ferrying materials
+- Soviet women could fly in combat
+-
+*** Bf-109
+- germany
+- Daimler v12 engine
+*** US P-39 Airacobra
+- airplane based around cannon
+- pilot sits to the side
+- engine behind the pilot
+- hated by amaericans
+- they gave it to the russians
+-
+*** Hawker Hurricane
+- Britain
+- big
+- multiple machine guns mounted in wings
+- merlin v12 engine
+-
+
+** Turbojet revolution
+- propellers obsolete
+- tips of blades go supersonic, which limits speed of aircraft
+- cannot provide thrust at supersonic speed
+- Germans were first to figure out you need a more powerful engine
+- technology came from warfare
+*** Hans von Ohain
+- german scientist/physicist
+- 650km/h
+- first modern turbojet engine
+- metallurgy is a limitation
+- need precise manufacturing, new alloys
+*** Me 262
+- first jet fighter
+- over 800km/h
+- Jumo 004
+- made all the allied aircraft obsolete overnight
+- Hitler was obsessed with tanks
+  - he forbid the use of it as a fighter
+  - only allowed it to be used as a bomber
+- it could have changed the course of WWII
+  - actually, probably not because the designs would have been copied
+  - basically the war was lost because Hitler was a lunatic
+- first to deal with high speed flying
+- lots of problems as you approach the sound barrier
+-
+*** Supersonic
+- transonic is when the front of the aircraft is supersonic but back is subsonic
+  - tears plane apart
+- go back to german WWII design
+- need a thin wing to slice through the air (Swept wing)
+  1. Swept wing makes thick wing act like thin one
+  2. powerful engine
+  3. large control surfaces, coke bottle principle
+     - guided airflow to not produce shockwave effect
+**** Avro Aero
+- mach 2
+- most advanced airplane at the tiem
+- fuselage made of titanium
+- Canadian
+- powered by computer
+- computer aided target locking
+- final stage, mach 3 was designed to be a space shuttle and launch rockets into orbit
+- in the end, was not supported by external factors
+- also flyiing saucer
+- similar to Harrison and clocks
+- government cancelled the program
+- "black friday" 30000 people lost jobs
+- destroyed aircraft, blueprints, film footage
+- canada lost the best and brightest engineers
+- there are bits and pieces everywhere across canada, workers kept some stuff when they left
+- americans would not have been the first to the moon if the Avro Aero was not cancelled
+- lots of them went to NASA after
+***** John Diefenbaker
+- blamed for destroying the Avro Aero
+- he did cancel the program
+- destruction orders came from the military
+-
+**** SR-71 Blackbird
+- top speed is still classified
+- evolution of Avro Aero
+- combine turbojet engine with ramjet (afterburner)
+- ramjet works at 2x speed of sound
+- no armament on aircraft
+- can outrun missiles
+- hypersonic - not limited by technology
+- humans became the limiting factor
+  - our bodies cannot take large G-forces well
+
+**** Concord
+- cross Atlantic in 3 hours
 * Technoscience and Warfare
 * Modern Technologies and You
 ** genetics
 ** artificial intelligence
+* Final Exam Review
+- Dec 20 9am-9:35am on eclass
+- all lectures and all of textbook
+- emphasis on lectures
+- 1851 password
+- same multiple choice format at multiple choice exam 1
+- 90 questions from lecture
+- 10 from textbook
+- from textbook
+  + know major arguments, theories, events, people, books, plaes, objects
+- lectures: everything except dates or specific things like horsepower of an engine
+-
