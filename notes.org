@@ -2829,8 +2829,207 @@ not allowed to present in front of the Royal society
 
 
 * Modern Technologies and You
-** genetics
-** artificial intelligence
+** Supporters of Technology
+*** Samuel Florman
+- "The existential pleasures of engineering"
+- against critics of technology
+- technological determinism
+  + technology is the only decisive factor which made everything possible
+- internalist
+  + interested only in what happens with technology
+- argument made is that engineers are independent from external factors (like Von Braun)
+  + bad things don't happen because of the work of engineers, it's because bad people get a hold of it
+
+*** Lewis Mumford
+- "Thy myth of the machine"
+- unlimited technological progress will eliminate humanity
+  + machines will take over jobs, thinking process, humanity will be lost
+- argued against this idea
+- believed this will never happen because technology always comes from people,
+  + people can come in and stop any technology which remove humanity
+  + today, we see that he's wrong
+- biological progression
+- biological determinism
+- technology  was the highest achievement of humans
+- we're the best species on Earth because it was the final result of our biological progress
+-
+** Critics of Technology
+- in mass media, critics of technology are usually portrayed as idiots
+-
+*** Luddite
+- first organized opposition to technology
+- context: Industrial revolution
+- removed from family
+- forced to work in factories for maximum hours and minimum wages
+- not against technology
+- were opposing the world as they know it coming to an end, used to be cotton industry workers
+- believed it was their right to stay at home and work as little or as much as they want without being controlled by a boss
+- 1812 Luddites take to the streets
+- people in the government are either factory owners or invested in factories
+- Parliament sent troops against unarmed civilians to protect their personal investments
+- 14000 troops against 200 unarmed civilians
+- end of luddite movement
+- government protecting interests of those invested in technology
+  + hey that sounds like a problem we have today
+- new law:
+  + anyone who destroys a machine is punishable by death
+  + first time when a machine is treated the same as a human according to the law
+  +
+*** Sofia
+- First robot to recieve full citizenship
+- we no longer really understand the difference between humans and machine
+- American law system is now being rewrittten to include artificial intelligence
+- in theory, if Sofia decided to multiply, we could not stop her because she has the same rights as a human
+- you could marry a robot
+- (in countries where robots have the same rights as humans)
+-
+*** Patent for living organism
+- 1981
+- bacteria that eats oil
+- this precedence opened a door for a race to patent organisms
+- 1980 - US supreme court ruled that DNA can be owned, sold, and patented
+- 1998 Iceland's DNA code sold to a private company
+  + Icelandic population DNA doesn't vary much
+  + if you didn't provide DNA, you'd be denied access to the health system
+  + another example of government protecting interests of technology
+- Every child born in Canada has a DNA sample taken?!
+-
+*** Jacques Ellul
+- "The technological society"
+- we are controlled by technology
+- technology used for politica/economic ends
+- less and less about making our lives better
+- our modern society has a bunch of 'sleepers' integrated into the system
+- technology controls every fraction of our lives
+- we cannot step outside of the box, see outside of the box
+  + same idea as allegory of the cave Plato
+- large companies and government want us to stay in the box, it's inconvenient to ask questions
+-
+*** Neil Postman
+- "Technopoly The surrender of culture to technology"
+- what we have lost
+- 3 main points:
+  1. technology is a trade off
+     - we gain but also lose
+     - not a one way relation
+     - 2-way
+     - we don't know what we lose anymore
+  2. technology transforms societies
+     - it always has an impact
+     - new society based on technology
+     - example: you can barely do anything without a smartphone nowadays
+     - basically cannot survive without a computer nowadays, jobs relies on it
+  3. we are obedient to technology
+     - we became the "tools of our tools"
+     - we live, survive, interact due to technology
+     - if we don not put some knowledge in society to counteract this, we become tools of our tools
+     - do you even fully understand how all the technology around you works?
+     - people only know how small parts of a computer works, no one has a full picture because it's so complex
+
+**** Postman's experiment
+- tell fake story about how joggers lose intelligence
+- people believe it
+- we lose independent thinking
+
+** New role of Technology
+- how we evolve from using technology as a tool to being completely controlled by it without any sort of protest
+- has to do with introduction of technoscience
+- technoscience controls what we do
+- technoscience came from warface
+- but nowadays it's more about making money
+- false notion that technoscience is about gaining scientific knowledge
+  + it's really about making profit
+*** scientism
+- scientism :: to accept unchallenged from science the answers to such questions as how to feel, live or behave is scientism
+- lose independent thinking
+- we just act according to what the science tells us
+- scientism led to technopoly
+- technopoly ::
+  1. complete obedience to technology
+     - both devices and systems
+     - no choice
+     - example: can you graduate without a computer?
+       + nope! no choice
+       + sure computers are convenient and useful
+       + but you had no choice
+  2. ignorance - of what new technologies are doing to our lives/human relations
+     + you don't hink about what happens when you do a google search or tap your card
+     + you're a sleeper
+     + behind the scenes there's a multimillion dollar commodity - your personal info
+     + technological junk in exchange for your freedom of choice, privacy, individuality
+     + you blindly accept EULAS
+     + windows updates shoved down your throats and candy crush on your start menu
+  3. acceptance of mass media/internet as the source of knowledge
+     - we lost the ability of critical independent thinking
+     - instant access to information is not knowledge
+     - old people replaced by google
+     - you used to go to old people to ask questions
+       + nowadays, they end up in senior homes (in North America)
+     - standardized lives/goals/dreams
+     - paradoxes - more timesaving devices/technologies -> less free time
+       + we almost don't have free time anymore
+  4. inability to recognize what is useful
+     - artificial technological obsolescence
+     - planned obsolescnence
+     - our notions of 'modernity'
+     - do we really need new technologies, or are they simply improved means to unimproved ends?
+       + "If there had been no railway to conquer distance, my child would never have left his native town and I should need no telephone to hear his voice; if travelling across the ocean by ship had not been introduced, my friend would not have embarked on his sea-voyage and I should not need a cable to relive my anxiety about him" -Sigmund Freud
+  5. inability to recognize invisible technologies
+     - government, economy, sociology, education
+  6. ignorance of past/history
+     - this notion does not come from society per se, it comes from mass media
+     - ex: large companies says the future is friendly, more technology = better
+     - new is better, old is obsolete
+     - in the past:
+       + technological positivism
+     - nowadays: conformity/ignorance
+       - we don't worry about side effects
+       - if you do not conform to modern society, you're condsidered to have a mental illness
+       - non-conformists make the biggest changes to society
+       - every single inventor, scientist discussed in this class were non conformists
+     - internet/googlization
+       - "We shall have nothing more to lose, and nothing to win. Our deepest instincts and our most secret passions will be analyzed, published ans exploited" - 1954 Jacques Ellul
+       - no mysteries anymore, everything is just a click away
+- there is no going back
+  + no one is giving up cell phones, computers to go back to earlier technologies
+    - unless everything collapses
+    - for example, if electricity disappears
+    - to shape the future, you must know the past
+  
+        
+** Why history matters and why you are here
+- you're basically here because of A+ and R7
+- R7 is the rocket which took Sputnik into orbit
+- impact of shoes and rocketry on education
+
+*** Education was about mentorship for the most part
+- no grades, no exams
+- educational experience would be verbal discourse, discussion
+- kind of pass/fail, based on individual mentorship
+- history at the core of education until 1957
+**** William Fairish
+- no one really knows who he his
+- 1792 visited a shoe factory and noticed how shoes were being produced on assembly line
+- they are graded: A+ for good, F for failure
+- decided to use same system for assigning grades to students
+- modern educational system comes from factory system
+- students are graded and are numbers
+**** Sputnik, R7
+- Soviet missile
+- shock to the west, they thought the Soviets were behind in technology
+- sent a message to the world that the education system in Russia was better than America
+  + or at least that's how it was interpreted
+- the west failed because of educational system
+- physics, chemistry, biology, complex math taught at elementary school level
+- exposed to sciences, separate scientific classes at a high level at a very young age
+- after that study, the importance of history went downhil 1957
+- in Canada, history courses replaced with 'social studies'
+- before 1957, scientists/engineers knew classical history
+- nowadays, graduate without any knowledge of history or ability of critical thinking (integrated into the system)/sleepers
+- "never in history have so many understood so little about so much" - Neil Postman
+- Message from prof: try not to be a conformist
+- find something that makes you excited and makes your life unique and important and worth living for
+
 * Final Exam Review
 - Dec 20 9am-9:35am on eclass
 - all lectures and all of textbook
@@ -2840,6 +3039,6 @@ not allowed to present in front of the Royal society
 - 90 questions from lecture
 - 10 from textbook
 - from textbook
-  + know major arguments, theories, events, people, books, plaes, objects
+  + know major arguments, theories, events, people, books, places, objects
 - lectures: everything except dates or specific things like horsepower of an engine
 -
